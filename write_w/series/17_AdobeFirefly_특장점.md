@@ -43,3 +43,42 @@
 ---
 
 *다음 편 예고: [AI 인물열전 #18] DeepL — "뉘앙스까지 살려내는" 통역 전문가 편에서 계속됩니다.*
+
+
+---
+
+## 🎨 이미지 생성 프롬프트 (5장)
+
+아래 5개 프롬프트는 Midjourney, DALL·E, Stable Diffusion 등 이미지 생성 도구에 바로 사용할 수 있도록 작성했습니다. (공식 로고·스크린샷이 아닌, 포스팅 톤에 맞춘 창작 일러스트용입니다.)
+
+**1. 대표 썸네일 — 캐릭터 비유 일러스트**
+```
+Editorial character illustration personifying Adobe Firefly as "새로 합류한 신입 AI 디자이너",
+adobe red accent on clean white, professional creative tone, flat vector illustration with soft shadows,
+tech-editorial magazine style, clean negative space for title text, 16:9 aspect ratio, no text, no logo
+```
+
+**2. 특장점 ① — 저작권 걱정 없는 상업적으로 안전한 학습 데이터**
+```
+Conceptual infographic-style illustration representing "저작권 걱정 없는 상업적으로 안전한 학습 데이터" for an AI tool review article,
+adobe red accent on clean white, professional creative tone, minimalist vector icons and abstract shapes, no text, no logo, square 1:1 aspect ratio
+```
+
+**3. 특장점 ② — 포토샵·일러스트레이터에 자연스럽게 녹아든 통합**
+```
+Conceptual infographic-style illustration representing "포토샵·일러스트레이터에 자연스럽게 녹아든 통합" for an AI tool review article,
+adobe red accent on clean white, professional creative tone, minimalist vector icons and abstract shapes, no text, no logo, square 1:1 aspect ratio
+```
+
+**4. 특장점 ③ — 색상·조명·구도까지 다듬는 세밀한 컨트롤**
+```
+Conceptual infographic-style illustration representing "색상·조명·구도까지 다듬는 세밀한 컨트롤" for an AI tool review article,
+adobe red accent on clean white, professional creative tone, minimalist vector icons and abstract shapes, no text, no logo, square 1:1 aspect ratio
+```
+
+**5. 총평 카드 — 별점 인포그래픽**
+```
+A minimal review-card style illustration with a star rating visual motif,
+adobe red accent on clean white, professional creative tone, flat design, rounded card layout, subtle gradient background,
+space reserved for a one-line quote and star rating, no text, no logo, 4:3 aspect ratio
+```

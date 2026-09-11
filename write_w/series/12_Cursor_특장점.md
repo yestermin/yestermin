@@ -43,3 +43,42 @@ diff 보기, 단계별 승인, 자동 테스트 실행까지 — 실제 개발�
 ---
 
 *다음 편 예고: [AI 인물열전 #13] Character.AI — "각자 취향대로 만드는 나만의 캐릭터" 편에서 계속됩니다.*
+
+
+---
+
+## 🎨 이미지 생성 프롬프트 (5장)
+
+아래 5개 프롬프트는 Midjourney, DALL·E, Stable Diffusion 등 이미지 생성 도구에 바로 사용할 수 있도록 작성했습니다. (공식 로고·스크린샷이 아닌, 포스팅 톤에 맞춘 창작 일러스트용입니다.)
+
+**1. 대표 썸네일 — 캐릭터 비유 일러스트**
+```
+Editorial character illustration personifying Cursor as "아예 키보드를 같이 잡은 페어프로그래머",
+sleek dark IDE aesthetic with violet accents, precise technical tone, flat vector illustration with soft shadows,
+tech-editorial magazine style, clean negative space for title text, 16:9 aspect ratio, no text, no logo
+```
+
+**2. 특장점 ① — 여러 파일을 한 번에 고치는 멀티파일 에이전트 모드**
+```
+Conceptual infographic-style illustration representing "여러 파일을 한 번에 고치는 멀티파일 에이전트 모드" for an AI tool review article,
+sleek dark IDE aesthetic with violet accents, precise technical tone, minimalist vector icons and abstract shapes, no text, no logo, square 1:1 aspect ratio
+```
+
+**3. 특장점 ② — 프로젝트 전체를 이해하는 코드베이스 인덱싱**
+```
+Conceptual infographic-style illustration representing "프로젝트 전체를 이해하는 코드베이스 인덱싱" for an AI tool review article,
+sleek dark IDE aesthetic with violet accents, precise technical tone, minimalist vector icons and abstract shapes, no text, no logo, square 1:1 aspect ratio
+```
+
+**4. 특장점 ③ — diff·단계별 승인 등 개발자 친화적 UX**
+```
+Conceptual infographic-style illustration representing "diff·단계별 승인 등 개발자 친화적 UX" for an AI tool review article,
+sleek dark IDE aesthetic with violet accents, precise technical tone, minimalist vector icons and abstract shapes, no text, no logo, square 1:1 aspect ratio
+```
+
+**5. 총평 카드 — 별점 인포그래픽**
+```
+A minimal review-card style illustration with a star rating visual motif,
+sleek dark IDE aesthetic with violet accents, precise technical tone, flat design, rounded card layout, subtle gradient background,
+space reserved for a one-line quote and star rating, no text, no logo, 4:3 aspect ratio
+```

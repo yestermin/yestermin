@@ -43,3 +43,42 @@
 ---
 
 *다음 편 예고: [AI 인물열전 #14] Suno — "가사만 던지면 노래를 완성해주는" 작곡가 편에서 계속됩니다.*
+
+
+---
+
+## 🎨 이미지 생성 프롬프트 (5장)
+
+아래 5개 프롬프트는 Midjourney, DALL·E, Stable Diffusion 등 이미지 생성 도구에 바로 사용할 수 있도록 작성했습니다. (공식 로고·스크린샷이 아닌, 포스팅 톤에 맞춘 창작 일러스트용입니다.)
+
+**1. 대표 썸네일 — 캐릭터 비유 일러스트**
+```
+Editorial character illustration personifying Character.AI as "오락실 인형뽑기 겸 롤플레잉 게임방",
+vibrant candy colors, playful whimsical tone, flat vector illustration with soft shadows,
+tech-editorial magazine style, clean negative space for title text, 16:9 aspect ratio, no text, no logo
+```
+
+**2. 특장점 ① — 사용자가 직접 빚어내는 캐릭터 제작 생태계**
+```
+Conceptual infographic-style illustration representing "사용자가 직접 빚어내는 캐릭터 제작 생태계" for an AI tool review article,
+vibrant candy colors, playful whimsical tone, minimalist vector icons and abstract shapes, no text, no logo, square 1:1 aspect ratio
+```
+
+**3. 특장점 ② — 설정을 오래 유지하는 몰입감 있는 롤플레이**
+```
+Conceptual infographic-style illustration representing "설정을 오래 유지하는 몰입감 있는 롤플레이" for an AI tool review article,
+vibrant candy colors, playful whimsical tone, minimalist vector icons and abstract shapes, no text, no logo, square 1:1 aspect ratio
+```
+
+**4. 특장점 ③ — 압도적인 사용자 체류 시간**
+```
+Conceptual infographic-style illustration representing "압도적인 사용자 체류 시간" for an AI tool review article,
+vibrant candy colors, playful whimsical tone, minimalist vector icons and abstract shapes, no text, no logo, square 1:1 aspect ratio
+```
+
+**5. 총평 카드 — 별점 인포그래픽**
+```
+A minimal review-card style illustration with a star rating visual motif,
+vibrant candy colors, playful whimsical tone, flat design, rounded card layout, subtle gradient background,
+space reserved for a one-line quote and star rating, no text, no logo, 4:3 aspect ratio
+```

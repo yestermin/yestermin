@@ -43,3 +43,42 @@
 ---
 
 *다음 편 예고: [AI 인물열전 #16] Runway — "텍스트로 영화 한 장면을 만드는" 영상 감독 편에서 계속됩니다.*
+
+
+---
+
+## 🎨 이미지 생성 프롬프트 (5장)
+
+아래 5개 프롬프트는 Midjourney, DALL·E, Stable Diffusion 등 이미지 생성 도구에 바로 사용할 수 있도록 작성했습니다. (공식 로고·스크린샷이 아닌, 포스팅 톤에 맞춘 창작 일러스트용입니다.)
+
+**1. 대표 썸네일 — 캐릭터 비유 일러스트**
+```
+Editorial character illustration personifying ElevenLabs as "섭외 없이 바로 앉힐 수 있는 만능 성우",
+soft waveform visuals in teal and coral, warm vocal tone, flat vector illustration with soft shadows,
+tech-editorial magazine style, clean negative space for title text, 16:9 aspect ratio, no text, no logo
+```
+
+**2. 특장점 ① — 사람처럼 자연스러운 억양과 감정 표현**
+```
+Conceptual infographic-style illustration representing "사람처럼 자연스러운 억양과 감정 표현" for an AI tool review article,
+soft waveform visuals in teal and coral, warm vocal tone, minimalist vector icons and abstract shapes, no text, no logo, square 1:1 aspect ratio
+```
+
+**3. 특장점 ② — 짧은 샘플로 목소리를 복제하는 Voice Cloning**
+```
+Conceptual infographic-style illustration representing "짧은 샘플로 목소리를 복제하는 Voice Cloning" for an AI tool review article,
+soft waveform visuals in teal and coral, warm vocal tone, minimalist vector icons and abstract shapes, no text, no logo, square 1:1 aspect ratio
+```
+
+**4. 특장점 ③ — 다국어를 자연스럽게 소화하는 발음·억양**
+```
+Conceptual infographic-style illustration representing "다국어를 자연스럽게 소화하는 발음·억양" for an AI tool review article,
+soft waveform visuals in teal and coral, warm vocal tone, minimalist vector icons and abstract shapes, no text, no logo, square 1:1 aspect ratio
+```
+
+**5. 총평 카드 — 별점 인포그래픽**
+```
+A minimal review-card style illustration with a star rating visual motif,
+soft waveform visuals in teal and coral, warm vocal tone, flat design, rounded card layout, subtle gradient background,
+space reserved for a one-line quote and star rating, no text, no logo, 4:3 aspect ratio
+```

@@ -49,3 +49,42 @@
 ---
 
 *시리즈 전체 목록: 01 ChatGPT · 02 Claude · 03 Gemini · 04 Grok · 05 DeepSeek · 06 Canva · 07 Midjourney · 08 GitHub Copilot · 09 Perplexity · 10 Notion AI*
+
+
+---
+
+## 🎨 이미지 생성 프롬프트 (5장)
+
+아래 5개 프롬프트는 Midjourney, DALL·E, Stable Diffusion 등 이미지 생성 도구에 바로 사용할 수 있도록 작성했습니다. (공식 로고·스크린샷이 아닌, 포스팅 톤에 맞춘 창작 일러스트용입니다.)
+
+**1. 대표 썸네일 — 캐릭터 비유 일러스트**
+```
+Editorial character illustration personifying Notion AI as "회사 문서를 다 꿰고 있는 조용한 총무",
+minimal black and white with soft gray, organized calm tone, flat vector illustration with soft shadows,
+tech-editorial magazine style, clean negative space for title text, 16:9 aspect ratio, no text, no logo
+```
+
+**2. 특장점 ① — 워크스페이스 문서 맥락을 이해하는 답변**
+```
+Conceptual infographic-style illustration representing "워크스페이스 문서 맥락을 이해하는 답변" for an AI tool review article,
+minimal black and white with soft gray, organized calm tone, minimalist vector icons and abstract shapes, no text, no logo, square 1:1 aspect ratio
+```
+
+**3. 특장점 ② — 회의록 요약부터 액션 아이템까지 문서 전 과정 통합**
+```
+Conceptual infographic-style illustration representing "회의록 요약부터 액션 아이템까지 문서 전 과정 통합" for an AI tool review article,
+minimal black and white with soft gray, organized calm tone, minimalist vector icons and abstract shapes, no text, no logo, square 1:1 aspect ratio
+```
+
+**4. 특장점 ③ — 팀 전체 업무 방식을 표준화하는 효과**
+```
+Conceptual infographic-style illustration representing "팀 전체 업무 방식을 표준화하는 효과" for an AI tool review article,
+minimal black and white with soft gray, organized calm tone, minimalist vector icons and abstract shapes, no text, no logo, square 1:1 aspect ratio
+```
+
+**5. 총평 카드 — 별점 인포그래픽**
+```
+A minimal review-card style illustration with a star rating visual motif,
+minimal black and white with soft gray, organized calm tone, flat design, rounded card layout, subtle gradient background,
+space reserved for a one-line quote and star rating, no text, no logo, 4:3 aspect ratio
+```

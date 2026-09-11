@@ -43,3 +43,42 @@
 ---
 
 *다음 편 예고: [AI 인물열전 #7] Midjourney — "예술가 영혼을 장착한 그림쟁이" 편에서 계속됩니다.*
+
+
+---
+
+## 🎨 이미지 생성 프롬프트 (5장)
+
+아래 5개 프롬프트는 Midjourney, DALL·E, Stable Diffusion 등 이미지 생성 도구에 바로 사용할 수 있도록 작성했습니다. (공식 로고·스크린샷이 아닌, 포스팅 톤에 맞춘 창작 일러스트용입니다.)
+
+**1. 대표 썸네일 — 캐릭터 비유 일러스트**
+```
+Editorial character illustration personifying Canva as "손 빠른 디자인 대행업체 알바생",
+pastel purple and turquoise, playful creative tone, flat vector illustration with soft shadows,
+tech-editorial magazine style, clean negative space for title text, 16:9 aspect ratio, no text, no logo
+```
+
+**2. 특장점 ① — 문구만 던지면 시안이 나오는 Magic Design**
+```
+Conceptual infographic-style illustration representing "문구만 던지면 시안이 나오는 Magic Design" for an AI tool review article,
+pastel purple and turquoise, playful creative tone, minimalist vector icons and abstract shapes, no text, no logo, square 1:1 aspect ratio
+```
+
+**3. 특장점 ② — 클릭 한 번으로 끝나는 배경 제거·보정**
+```
+Conceptual infographic-style illustration representing "클릭 한 번으로 끝나는 배경 제거·보정" for an AI tool review article,
+pastel purple and turquoise, playful creative tone, minimalist vector icons and abstract shapes, no text, no logo, square 1:1 aspect ratio
+```
+
+**4. 특장점 ③ — 비전공자도 쓰는 압도적 접근성**
+```
+Conceptual infographic-style illustration representing "비전공자도 쓰는 압도적 접근성" for an AI tool review article,
+pastel purple and turquoise, playful creative tone, minimalist vector icons and abstract shapes, no text, no logo, square 1:1 aspect ratio
+```
+
+**5. 총평 카드 — 별점 인포그래픽**
+```
+A minimal review-card style illustration with a star rating visual motif,
+pastel purple and turquoise, playful creative tone, flat design, rounded card layout, subtle gradient background,
+space reserved for a one-line quote and star rating, no text, no logo, 4:3 aspect ratio
+```

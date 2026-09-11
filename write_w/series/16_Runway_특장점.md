@@ -43,3 +43,42 @@
 ---
 
 *다음 편 예고: [AI 인물열전 #17] Adobe Firefly — "포토샵에 스며든" 정직한 디자인 도우미 편에서 계속됩니다.*
+
+
+---
+
+## 🎨 이미지 생성 프롬프트 (5장)
+
+아래 5개 프롬프트는 Midjourney, DALL·E, Stable Diffusion 등 이미지 생성 도구에 바로 사용할 수 있도록 작성했습니다. (공식 로고·스크린샷이 아닌, 포스팅 톤에 맞춘 창작 일러스트용입니다.)
+
+**1. 대표 썸네일 — 캐릭터 비유 일러스트**
+```
+Editorial character illustration personifying Runway as "스케치 한 장으로 콘티를 뽑아주는 신인 영화감독",
+cinematic dark tones with film-strip motif, dramatic tone, flat vector illustration with soft shadows,
+tech-editorial magazine style, clean negative space for title text, 16:9 aspect ratio, no text, no logo
+```
+
+**2. 특장점 ① — 텍스트·이미지 한 장으로 영상을 만드는 생성 능력**
+```
+Conceptual infographic-style illustration representing "텍스트·이미지 한 장으로 영상을 만드는 생성 능력" for an AI tool review article,
+cinematic dark tones with film-strip motif, dramatic tone, minimalist vector icons and abstract shapes, no text, no logo, square 1:1 aspect ratio
+```
+
+**3. 특장점 ② — 그린스크린 없는 배경 제거 등 편집 특화 툴셋**
+```
+Conceptual infographic-style illustration representing "그린스크린 없는 배경 제거 등 편집 특화 툴셋" for an AI tool review article,
+cinematic dark tones with film-strip motif, dramatic tone, minimalist vector icons and abstract shapes, no text, no logo, square 1:1 aspect ratio
+```
+
+**4. 특장점 ③ — 실제 영상 업계의 프리프로덕션 도입 사례**
+```
+Conceptual infographic-style illustration representing "실제 영상 업계의 프리프로덕션 도입 사례" for an AI tool review article,
+cinematic dark tones with film-strip motif, dramatic tone, minimalist vector icons and abstract shapes, no text, no logo, square 1:1 aspect ratio
+```
+
+**5. 총평 카드 — 별점 인포그래픽**
+```
+A minimal review-card style illustration with a star rating visual motif,
+cinematic dark tones with film-strip motif, dramatic tone, flat design, rounded card layout, subtle gradient background,
+space reserved for a one-line quote and star rating, no text, no logo, 4:3 aspect ratio
+```

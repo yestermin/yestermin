@@ -43,3 +43,42 @@
 ---
 
 *다음 편 예고: [AI 인물열전 #3] Gemini — "구글 검색창이 갑자기 말을 하기 시작했다" 편에서 계속됩니다.*
+
+
+---
+
+## 🎨 이미지 생성 프롬프트 (5장)
+
+아래 5개 프롬프트는 Midjourney, DALL·E, Stable Diffusion 등 이미지 생성 도구에 바로 사용할 수 있도록 작성했습니다. (공식 로고·스크린샷이 아닌, 포스팅 톤에 맞춘 창작 일러스트용입니다.)
+
+**1. 대표 썸네일 — 캐릭터 비유 일러스트**
+```
+Editorial character illustration personifying Claude as "꼼꼼하고 예의 바른 시니어 개발자 동료",
+warm terracotta and cream, calm trustworthy tone, flat vector illustration with soft shadows,
+tech-editorial magazine style, clean negative space for title text, 16:9 aspect ratio, no text, no logo
+```
+
+**2. 특장점 ① — 방대한 문서를 끝까지 정독하는 긴 컨텍스트 처리**
+```
+Conceptual infographic-style illustration representing "방대한 문서를 끝까지 정독하는 긴 컨텍스트 처리" for an AI tool review article,
+warm terracotta and cream, calm trustworthy tone, minimalist vector icons and abstract shapes, no text, no logo, square 1:1 aspect ratio
+```
+
+**3. 특장점 ② — 복잡한 리팩토링을 믿고 맡기는 코딩 신뢰도**
+```
+Conceptual infographic-style illustration representing "복잡한 리팩토링을 믿고 맡기는 코딩 신뢰도" for an AI tool review article,
+warm terracotta and cream, calm trustworthy tone, minimalist vector icons and abstract shapes, no text, no logo, square 1:1 aspect ratio
+```
+
+**4. 특장점 ③ — 불확실하면 불확실하다 말하는 조심스러운 신중함**
+```
+Conceptual infographic-style illustration representing "불확실하면 불확실하다 말하는 조심스러운 신중함" for an AI tool review article,
+warm terracotta and cream, calm trustworthy tone, minimalist vector icons and abstract shapes, no text, no logo, square 1:1 aspect ratio
+```
+
+**5. 총평 카드 — 별점 인포그래픽**
+```
+A minimal review-card style illustration with a star rating visual motif,
+warm terracotta and cream, calm trustworthy tone, flat design, rounded card layout, subtle gradient background,
+space reserved for a one-line quote and star rating, no text, no logo, 4:3 aspect ratio
+```

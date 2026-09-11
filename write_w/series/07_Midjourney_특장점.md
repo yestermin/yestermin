@@ -43,3 +43,42 @@
 ---
 
 *다음 편 예고: [AI 인물열전 #8] GitHub Copilot — "옆자리에서 계속 자동완성 쳐주는 페어프로그래머" 편에서 계속됩니다.*
+
+
+---
+
+## 🎨 이미지 생성 프롬프트 (5장)
+
+아래 5개 프롬프트는 Midjourney, DALL·E, Stable Diffusion 등 이미지 생성 도구에 바로 사용할 수 있도록 작성했습니다. (공식 로고·스크린샷이 아닌, 포스팅 톤에 맞춘 창작 일러스트용입니다.)
+
+**1. 대표 썸네일 — 캐릭터 비유 일러스트**
+```
+Editorial character illustration personifying Midjourney as "말수는 적지만 감각은 확실한 프리랜서 일러스트레이터",
+rich jewel tones, artistic painterly tone, flat vector illustration with soft shadows,
+tech-editorial magazine style, clean negative space for title text, 16:9 aspect ratio, no text, no logo
+```
+
+**2. 특장점 ① — 그림 같은 그림을 뽑아내는 압도적 미학**
+```
+Conceptual infographic-style illustration representing "그림 같은 그림을 뽑아내는 압도적 미학" for an AI tool review article,
+rich jewel tones, artistic painterly tone, minimalist vector icons and abstract shapes, no text, no logo, square 1:1 aspect ratio
+```
+
+**3. 특장점 ② — 세부 파라미터로 조율하는 스타일 컨트롤**
+```
+Conceptual infographic-style illustration representing "세부 파라미터로 조율하는 스타일 컨트롤" for an AI tool review article,
+rich jewel tones, artistic painterly tone, minimalist vector icons and abstract shapes, no text, no logo, square 1:1 aspect ratio
+```
+
+**4. 특장점 ③ — 커뮤니티가 함께 쌓아온 화풍 노하우**
+```
+Conceptual infographic-style illustration representing "커뮤니티가 함께 쌓아온 화풍 노하우" for an AI tool review article,
+rich jewel tones, artistic painterly tone, minimalist vector icons and abstract shapes, no text, no logo, square 1:1 aspect ratio
+```
+
+**5. 총평 카드 — 별점 인포그래픽**
+```
+A minimal review-card style illustration with a star rating visual motif,
+rich jewel tones, artistic painterly tone, flat design, rounded card layout, subtle gradient background,
+space reserved for a one-line quote and star rating, no text, no logo, 4:3 aspect ratio
+```

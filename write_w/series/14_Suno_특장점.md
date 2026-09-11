@@ -43,3 +43,42 @@
 ---
 
 *다음 편 예고: [AI 인물열전 #15] ElevenLabs — "목소리 자체를 복제하는" 성우 편에서 계속됩니다.*
+
+
+---
+
+## 🎨 이미지 생성 프롬프트 (5장)
+
+아래 5개 프롬프트는 Midjourney, DALL·E, Stable Diffusion 등 이미지 생성 도구에 바로 사용할 수 있도록 작성했습니다. (공식 로고·스크린샷이 아닌, 포스팅 톤에 맞춘 창작 일러스트용입니다.)
+
+**1. 대표 썸네일 — 캐릭터 비유 일러스트**
+```
+Editorial character illustration personifying Suno as "즉흥으로 곡을 뽑아내는 스튜디오 작곡가 겸 세션밴드",
+warm studio amber and deep purple, musical creative tone, flat vector illustration with soft shadows,
+tech-editorial magazine style, clean negative space for title text, 16:9 aspect ratio, no text, no logo
+```
+
+**2. 특장점 ① — 가사만 던지면 완성곡이 나오는 텍스트→음악 생성**
+```
+Conceptual infographic-style illustration representing "가사만 던지면 완성곡이 나오는 텍스트→음악 생성" for an AI tool review article,
+warm studio amber and deep purple, musical creative tone, minimalist vector icons and abstract shapes, no text, no logo, square 1:1 aspect ratio
+```
+
+**3. 특장점 ② — 발라드부터 힙합까지 폭넓은 장르 커버리지**
+```
+Conceptual infographic-style illustration representing "발라드부터 힙합까지 폭넓은 장르 커버리지" for an AI tool review article,
+warm studio amber and deep purple, musical creative tone, minimalist vector icons and abstract shapes, no text, no logo, square 1:1 aspect ratio
+```
+
+**4. 특장점 ③ — 악기를 몰라도 되는 창작 진입장벽 제거**
+```
+Conceptual infographic-style illustration representing "악기를 몰라도 되는 창작 진입장벽 제거" for an AI tool review article,
+warm studio amber and deep purple, musical creative tone, minimalist vector icons and abstract shapes, no text, no logo, square 1:1 aspect ratio
+```
+
+**5. 총평 카드 — 별점 인포그래픽**
+```
+A minimal review-card style illustration with a star rating visual motif,
+warm studio amber and deep purple, musical creative tone, flat design, rounded card layout, subtle gradient background,
+space reserved for a one-line quote and star rating, no text, no logo, 4:3 aspect ratio
+```
