@@ -44,67 +44,15 @@ SNS 안에서 바로 이미지를 만들고 스티커·게시물에 활용할 �
 
 *다음 편 예고: [AI 인물열전 #20] Qwen — "아시아 시장을 정조준한" 오픈소스 다크호스 편에서 계속됩니다.*
 
-
 ---
+![대표 이미지](images/19_MetaAI/19_MetaAI_1_thumbnail.png)
 
-## 🖼 이미지 (5장)
+본문에 그림이 들어가면 좋을 자리는 아래와 같다. 실제 이미지는 아직 넣지 않았다.
 
-아래 이미지는 이 포스팅 전용으로 제작한 실제 이미지 파일입니다. 원본은 `images/19_MetaAI/` 폴더에 있습니다.
+〔이미지 자리 — 본문에서 1번째 특장점을 설명하는 대목〕
 
-**대표 썸네일 (1600×900)**
+〔이미지 자리 — 본문에서 2번째 특장점을 설명하는 대목〕
 
-![대표 썸네일 (1600×900)](images/19_MetaAI/19_MetaAI_1_thumbnail.png)
+〔이미지 자리 — 본문에서 3번째 특장점을 설명하는 대목〕
 
-**특장점 ① 카드 (1200×1200)**
-
-![특장점 ① 카드 (1200×1200)](images/19_MetaAI/19_MetaAI_2_strength1.png)
-
-**특장점 ② 카드 (1200×1200)**
-
-![특장점 ② 카드 (1200×1200)](images/19_MetaAI/19_MetaAI_3_strength2.png)
-
-**특장점 ③ 카드 (1200×1200)**
-
-![특장점 ③ 카드 (1200×1200)](images/19_MetaAI/19_MetaAI_4_strength3.png)
-
-**총평 · 별점 카드 (1600×1200)**
-
-![총평 · 별점 카드 (1600×1200)](images/19_MetaAI/19_MetaAI_5_verdict.png)
-
----
-
-## 🎨 이미지 생성 프롬프트 (5장)
-
-아래 5개 프롬프트는 Midjourney, DALL·E, Stable Diffusion 등 이미지 생성 도구에 바로 사용할 수 있도록 작성했습니다. (공식 로고·스크린샷이 아닌, 포스팅 톤에 맞춘 창작 일러스트용입니다.)
-
-**1. 대표 썸네일 — 캐릭터 비유 일러스트**
-```
-Editorial character illustration personifying Meta AI as "이미 동네에 살고 있어서 따로 인사할 필요 없는 이웃",
-social-media gradient blues and purples, connected friendly tone, flat vector illustration with soft shadows,
-tech-editorial magazine style, clean negative space for title text, 16:9 aspect ratio, no text, no logo
-```
-
-**2. 특장점 ① — 인스타그램·왓츠앱 등 초대형 소셜 플랫폼 통합**
-```
-Conceptual infographic-style illustration representing "인스타그램·왓츠앱 등 초대형 소셜 플랫폼 통합" for an AI tool review article,
-social-media gradient blues and purples, connected friendly tone, minimalist vector icons and abstract shapes, no text, no logo, square 1:1 aspect ratio
-```
-
-**3. 특장점 ② — 오픈소스 Llama가 만든 개발자 생태계 영향력**
-```
-Conceptual infographic-style illustration representing "오픈소스 Llama가 만든 개발자 생태계 영향력" for an AI tool review article,
-social-media gradient blues and purples, connected friendly tone, minimalist vector icons and abstract shapes, no text, no logo, square 1:1 aspect ratio
-```
-
-**4. 특장점 ③ — SNS 안에서 바로 만드는 이미지·스티커 생성**
-```
-Conceptual infographic-style illustration representing "SNS 안에서 바로 만드는 이미지·스티커 생성" for an AI tool review article,
-social-media gradient blues and purples, connected friendly tone, minimalist vector icons and abstract shapes, no text, no logo, square 1:1 aspect ratio
-```
-
-**5. 총평 카드 — 별점 인포그래픽**
-```
-A minimal review-card style illustration with a star rating visual motif,
-social-media gradient blues and purples, connected friendly tone, flat design, rounded card layout, subtle gradient background,
-space reserved for a one-line quote and star rating, no text, no logo, 4:3 aspect ratio
-```
+〔이미지 자리 — 총평 문단 바로 위〕

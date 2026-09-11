@@ -44,67 +44,15 @@ X 플랫폼의 실시간 게시물 흐름에 접근할 수 있다는 건, 다른
 
 *다음 편 예고: [AI 인물열전 #5] DeepSeek — "가성비로 승부하는 다크호스" 편에서 계속됩니다.*
 
-
 ---
+![대표 이미지](images/04_Grok/04_Grok_1_thumbnail.png)
 
-## 🖼 이미지 (5장)
+본문에 그림이 들어가면 좋을 자리는 아래와 같다. 실제 이미지는 아직 넣지 않았다.
 
-아래 이미지는 이 포스팅 전용으로 제작한 실제 이미지 파일입니다. 원본은 `images/04_Grok/` 폴더에 있습니다.
+〔이미지 자리 — 본문에서 1번째 특장점을 설명하는 대목〕
 
-**대표 썸네일 (1600×900)**
+〔이미지 자리 — 본문에서 2번째 특장점을 설명하는 대목〕
 
-![대표 썸네일 (1600×900)](images/04_Grok/04_Grok_1_thumbnail.png)
+〔이미지 자리 — 본문에서 3번째 특장점을 설명하는 대목〕
 
-**특장점 ① 카드 (1200×1200)**
-
-![특장점 ① 카드 (1200×1200)](images/04_Grok/04_Grok_2_strength1.png)
-
-**특장점 ② 카드 (1200×1200)**
-
-![특장점 ② 카드 (1200×1200)](images/04_Grok/04_Grok_3_strength2.png)
-
-**특장점 ③ 카드 (1200×1200)**
-
-![특장점 ③ 카드 (1200×1200)](images/04_Grok/04_Grok_4_strength3.png)
-
-**총평 · 별점 카드 (1600×1200)**
-
-![총평 · 별점 카드 (1600×1200)](images/04_Grok/04_Grok_5_verdict.png)
-
----
-
-## 🎨 이미지 생성 프롬프트 (5장)
-
-아래 5개 프롬프트는 Midjourney, DALL·E, Stable Diffusion 등 이미지 생성 도구에 바로 사용할 수 있도록 작성했습니다. (공식 로고·스크린샷이 아닌, 포스팅 톤에 맞춘 창작 일러스트용입니다.)
-
-**1. 대표 썸네일 — 캐릭터 비유 일러스트**
-```
-Editorial character illustration personifying Grok as "필터링 없이 할 말 다 하는 직설적인 친구",
-bold black and electric blue, edgy energetic tone, flat vector illustration with soft shadows,
-tech-editorial magazine style, clean negative space for title text, 16:9 aspect ratio, no text, no logo
-```
-
-**2. 특장점 ① — X 플랫폼 실시간 소셜 데이터 접근성**
-```
-Conceptual infographic-style illustration representing "X 플랫폼 실시간 소셜 데이터 접근성" for an AI tool review article,
-bold black and electric blue, edgy energetic tone, minimalist vector icons and abstract shapes, no text, no logo, square 1:1 aspect ratio
-```
-
-**3. 특장점 ② — 유머와 풍자가 섞인 개성 있는 화법**
-```
-Conceptual infographic-style illustration representing "유머와 풍자가 섞인 개성 있는 화법" for an AI tool review article,
-bold black and electric blue, edgy energetic tone, minimalist vector icons and abstract shapes, no text, no logo, square 1:1 aspect ratio
-```
-
-**4. 특장점 ③ — 논쟁적 주제도 피하지 않는 직설적 태도**
-```
-Conceptual infographic-style illustration representing "논쟁적 주제도 피하지 않는 직설적 태도" for an AI tool review article,
-bold black and electric blue, edgy energetic tone, minimalist vector icons and abstract shapes, no text, no logo, square 1:1 aspect ratio
-```
-
-**5. 총평 카드 — 별점 인포그래픽**
-```
-A minimal review-card style illustration with a star rating visual motif,
-bold black and electric blue, edgy energetic tone, flat design, rounded card layout, subtle gradient background,
-space reserved for a one-line quote and star rating, no text, no logo, 4:3 aspect ratio
-```
+〔이미지 자리 — 총평 문단 바로 위〕

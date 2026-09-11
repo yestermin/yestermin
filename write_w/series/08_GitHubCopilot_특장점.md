@@ -44,67 +44,15 @@ VS Code, JetBrains 등 개발자가 실제로 코드를 짜는 그 화면 안에
 
 *다음 편 예고: [AI 인물열전 #9] Perplexity — "출처까지 딱딱 붙여주는 리서치 조교" 편에서 계속됩니다.*
 
-
 ---
+![대표 이미지](images/08_GitHubCopilot/08_GitHubCopilot_1_thumbnail.png)
 
-## 🖼 이미지 (5장)
+본문에 그림이 들어가면 좋을 자리는 아래와 같다. 실제 이미지는 아직 넣지 않았다.
 
-아래 이미지는 이 포스팅 전용으로 제작한 실제 이미지 파일입니다. 원본은 `images/08_GitHubCopilot/` 폴더에 있습니다.
+〔이미지 자리 — 본문에서 1번째 특장점을 설명하는 대목〕
 
-**대표 썸네일 (1600×900)**
+〔이미지 자리 — 본문에서 2번째 특장점을 설명하는 대목〕
 
-![대표 썸네일 (1600×900)](images/08_GitHubCopilot/08_GitHubCopilot_1_thumbnail.png)
+〔이미지 자리 — 본문에서 3번째 특장점을 설명하는 대목〕
 
-**특장점 ① 카드 (1200×1200)**
-
-![특장점 ① 카드 (1200×1200)](images/08_GitHubCopilot/08_GitHubCopilot_2_strength1.png)
-
-**특장점 ② 카드 (1200×1200)**
-
-![특장점 ② 카드 (1200×1200)](images/08_GitHubCopilot/08_GitHubCopilot_3_strength2.png)
-
-**특장점 ③ 카드 (1200×1200)**
-
-![특장점 ③ 카드 (1200×1200)](images/08_GitHubCopilot/08_GitHubCopilot_4_strength3.png)
-
-**총평 · 별점 카드 (1600×1200)**
-
-![총평 · 별점 카드 (1600×1200)](images/08_GitHubCopilot/08_GitHubCopilot_5_verdict.png)
-
----
-
-## 🎨 이미지 생성 프롬프트 (5장)
-
-아래 5개 프롬프트는 Midjourney, DALL·E, Stable Diffusion 등 이미지 생성 도구에 바로 사용할 수 있도록 작성했습니다. (공식 로고·스크린샷이 아닌, 포스팅 톤에 맞춘 창작 일러스트용입니다.)
-
-**1. 대표 썸네일 — 캐릭터 비유 일러스트**
-```
-Editorial character illustration personifying GitHub Copilot as "말없이 키보드를 같이 두드리는 조용한 짝꿍",
-dark editor theme with neon green accents, focused coding tone, flat vector illustration with soft shadows,
-tech-editorial magazine style, clean negative space for title text, 16:9 aspect ratio, no text, no logo
-```
-
-**2. 특장점 ① — IDE 화면 안에 녹아든 자연스러운 워크플로우**
-```
-Conceptual infographic-style illustration representing "IDE 화면 안에 녹아든 자연스러운 워크플로우" for an AI tool review article,
-dark editor theme with neon green accents, focused coding tone, minimalist vector icons and abstract shapes, no text, no logo, square 1:1 aspect ratio
-```
-
-**3. 특장점 ② — 반복 패턴·보일러플레이트 자동완성**
-```
-Conceptual infographic-style illustration representing "반복 패턴·보일러플레이트 자동완성" for an AI tool review article,
-dark editor theme with neon green accents, focused coding tone, minimalist vector icons and abstract shapes, no text, no logo, square 1:1 aspect ratio
-```
-
-**4. 특장점 ③ — 레포지토리 맥락을 이해하는 GitHub 연결성**
-```
-Conceptual infographic-style illustration representing "레포지토리 맥락을 이해하는 GitHub 연결성" for an AI tool review article,
-dark editor theme with neon green accents, focused coding tone, minimalist vector icons and abstract shapes, no text, no logo, square 1:1 aspect ratio
-```
-
-**5. 총평 카드 — 별점 인포그래픽**
-```
-A minimal review-card style illustration with a star rating visual motif,
-dark editor theme with neon green accents, focused coding tone, flat design, rounded card layout, subtle gradient background,
-space reserved for a one-line quote and star rating, no text, no logo, 4:3 aspect ratio
-```
+〔이미지 자리 — 총평 문단 바로 위〕
