@@ -1,6 +1,6 @@
 # [AI 인물열전 #5] DeepSeek — "가성비로 업계를 흔든 다크호스" 스타일의 반란군
 
-*시리즈: 전세계 AI 특장점 열전 | 5/20 | 오늘의 주인공: DeepSeek*
+*시리즈: 전세계 AI 특장점 열전 | 5/20 | 오늘의 주인공: DeepSeek · 2026년 하반기 기준*
 
 ---
 
@@ -27,6 +27,9 @@
 ---
 
 *이어지는 편부터는 대화형 AI를 떠나 Canva, Midjourney, GitHub Copilot 같은 실무 특화 도구들로 넘어갑니다.*
+
+
+*다음 편 예고: Canva — 손 빠른 디자인 대행업체 알바생 편.*
 
 ---
 ![대표 이미지](images/05_DeepSeek/05_DeepSeek_1_thumbnail.png)

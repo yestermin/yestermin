@@ -1,6 +1,6 @@
 # [AI 인물열전 #10] Notion AI — 이미 내 업무 문서 다 보고 있는 조용한 총무
 
-*시리즈: 전세계 AI 특장점 열전 | 10/20 | 오늘의 주인공: Notion AI*
+*시리즈: 전세계 AI 특장점 열전 | 10/20 | 오늘의 주인공: Notion AI · 2026년 하반기 기준*
 
 ---
 
@@ -33,6 +33,9 @@ Notion AI는 메모·문서·프로젝트 관리 툴 안에 살면서, 그동안
 ---
 
 *시리즈 전체 목록: 01 ChatGPT · 02 Claude · 03 Gemini · 04 Grok · 05 DeepSeek · 06 Canva · 07 Midjourney · 08 GitHub Copilot · 09 Perplexity · 10 Notion AI*
+
+
+*다음 편 예고: Microsoft Copilot — 입사 첫날 사내 시스템을 다 꿰찬 신입 비서 편.*
 
 ---
 ![대표 이미지](images/10_NotionAI/10_NotionAI_1_thumbnail.png)
