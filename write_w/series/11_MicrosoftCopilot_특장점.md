@@ -1,6 +1,6 @@
 # [AI 인물열전 #11] Microsoft Copilot (365) — 엑셀·워드·아웃룩에 이미 눌러앉은 사내 비서
 
-*시리즈: 전세계 AI 특장점 열전 | 11/10 (시즌2 시작) | 오늘의 주인공: Microsoft Copilot*
+*시리즈: 전세계 AI 특장점 열전 | 11/20 | 오늘의 주인공: Microsoft Copilot*
 
 ---
 
