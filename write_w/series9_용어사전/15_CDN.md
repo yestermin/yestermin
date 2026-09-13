@@ -14,7 +14,7 @@ CDN은 원본 서버에 있는 콘텐츠를 세계 여러 지점의 서버에 �
 
 창고가 여럿이면 본사 창고에도 좋은 점이 있다. 웬만한 주문은 지역 창고에서 다 소화하니, 본사 창고는 정작 중요한 순간에 여유를 갖는다. 갑자기 주문이 몰려도 지역 창고들이 나눠 받으니 본사가 마비되는 일이 줄어든다. 갑작스러운 접속 폭주를 견디는 데 CDN이 쓰이는 이유다.
 
-## 실제로 어떻게 쓰이나
+## 실제로 굴러가는 자리
 
 동영상 스트리밍 서비스가 끊김 없이 재생되는 데는 가까운 지역 서버에서 영상을 받아오는 구조가 큰 몫을 한다. 큰 웹사이트의 이미지나 로고, 스타일 파일도 대개 CDN을 거쳐 내려온다. 새 제품 발표나 티켓 오픈처럼 순간적으로 접속이 몰리는 순간에도 CDN이 트래픽을 지역별로 나눠 받아, 원본 서버가 그대로 무너지는 걸 막아준다.
 
@@ -52,5 +52,6 @@ CDN이 콘텐츠를 영구히 보관해준다고 생각하는 것도 오해다. 
 ## 이미지 생성 프롬프트
 
 1. 대표 이미지: A flat vector world map with one large central warehouse and several small local warehouse icons in different cities, thin delivery lines connecting the central warehouse to each local one, flat vector illustration style, a simple everyday-object metaphor explaining a tech concept, minimal color palette, no text in the image, 16:9 composition.
-2. 이미지 자리 1: A flat vector scene of a sudden surge of delivery trucks being split evenly among several small regional warehouses instead of all converging on one overwhelmed central warehouse, flat vector illustration style, a simple everyday-object metaphor explaining a tech concept, minimal color palette, no text in the image, 4:3 composition.
-3. 이미지 자리 2: A flat vector split scene, the central warehouse shelf showing a freshly updated product box, while a distant regional warehouse shelf still shows the old version of the same box, flat vector illustration style, a simple everyday-object metaphor explaining a tech concept, minimal color palette, no text in the image, 4:3 composition.
+2. 이미지 자리 1: A flat vector illustration zoomed into one local city warehouse quickly handing a package straight to a nearby customer at the door, with a faint dotted line in the background showing the much longer route it would have taken from a distant central warehouse, flat vector illustration style, a simple everyday-object metaphor explaining a tech concept, minimal color palette, no text in the image, 4:3 composition.
+3. 이미지 자리 2: A flat vector scene of a sudden surge of delivery trucks being split evenly among several small regional warehouses instead of all converging on one overwhelmed central warehouse, flat vector illustration style, a simple everyday-object metaphor explaining a tech concept, minimal color palette, no text in the image, 4:3 composition.
+4. 이미지 자리 3: A flat vector split scene, the central warehouse shelf showing a freshly updated product box, while a distant regional warehouse shelf still shows the old version of the same box, flat vector illustration style, a simple everyday-object metaphor explaining a tech concept, minimal color palette, no text in the image, 4:3 composition.
