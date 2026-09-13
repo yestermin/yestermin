@@ -1,6 +1,4 @@
-# ChatGPT — "얘가 뭘 할 수 있지"가 "얘가 뭘 못하지"로 바뀌는 순간
-
-*시리즈: 전세계 AI 특장점 열전 | 1/20 | 오늘의 주인공: ChatGPT (OpenAI) · 2026년 하반기 기준*
+# 01. ChatGPT — "얘가 뭘 할 수 있지"가 "얘가 뭘 못하지"로 바뀌는 순간
 
 ---
 
@@ -31,10 +29,6 @@ ChatGPT의 진짜 힘은 채팅창 바깥에 있다. 어느 순간부터 이건 
 여러 작업을 한 곳에서 처리하는 범용성 하나로 매기면 ⭐️⭐️⭐️⭐️ (4.3/5) — 범용성 최고, 생태계 최강, 그래서 늘 첫 번째로 켜게 되는 앱.
 
 ---
-
-*다음 편 예고: [AI 인물열전 #2] Claude — "일 잘하는데 예의도 바른 그 동료" 편.*
-
----
 ![대표 이미지](images/01_ChatGPT/01_ChatGPT_1_thumbnail.png)
 
 본문에 그림이 들어가면 좋을 자리는 아래와 같다. 실제 이미지는 아직 넣지 않았다.
@@ -46,3 +40,11 @@ ChatGPT의 진짜 힘은 채팅창 바깥에 있다. 어느 순간부터 이건 
 〔이미지 자리 — 본문에서 3번째 특장점을 설명하는 대목〕
 
 〔이미지 자리 — 총평 문단 바로 위〕
+
+## 이미지 생성 프롬프트
+
+1. A friendly round robot character standing at the center of a bright scene, surrounded by many different floating tool icons — a pencil, code brackets, a musical note, a chat bubble, a paintbrush — radiating outward like spokes, suggesting one hub that can do almost anything, flat vector illustration style, soft rounded shapes, minimal color palette, no text or logos in the image, 16:9 composition.
+2. A storefront made of a giant open chat bubble with a doorway, dozens of small distinct app icons flowing out of it like customers leaving a shop, flat vector illustration style, soft rounded shapes, minimal color palette, no text or logos in the image, 4:3 composition.
+3. A cheerful robot character standing among a row of report cards, each showing a different subject icon (math, art, music, language) all with equally high and balanced marks, flat vector illustration style, soft rounded shapes, minimal color palette, no text or logos in the image, 4:3 composition.
+4. A robot character standing calmly at the center of a large crowd of countless tiny human silhouettes, each holding up a different small question mark, flat vector illustration style, soft rounded shapes, minimal color palette, no text or logos in the image, 4:3 composition.
+5. A robot character raising one hand eagerly to answer with a bright speech bubble above its head, a single small bead of sweat visible, suggesting confident enthusiasm with a touch of overreach, flat vector illustration style, soft rounded shapes, minimal color palette, no text or logos in the image, 4:3 composition.

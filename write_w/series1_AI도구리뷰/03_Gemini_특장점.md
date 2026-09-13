@@ -1,6 +1,4 @@
-# Gemini — "구글 검색창이 갑자기 말을 하기 시작했다" 스타일의 정보통
-
-*시리즈: 전세계 AI 특장점 열전 | 3/20 | 오늘의 주인공: Gemini (Google) · 2026년 하반기 기준*
+# 03. Gemini — "구글 검색창이 갑자기 말을 하기 시작했다" 스타일의 정보통
 
 ---
 
@@ -29,10 +27,6 @@ Gemini는 그 동료다. 메일함을 꿰고 있고, 캘린더를 알고, 어제
 구글 생태계 안에서 산다는 전제로 점수를 매기면 ⭐️⭐️⭐️⭐️ (4.2/5) — 구글 생태계 사용자에게는 대체 불가, 정보 연결력 최강.
 
 ---
-
-*다음 편 예고: [AI 인물열전 #4] Grok — "필터링 없이 할 말 다 하는 그 친구" 편.*
-
----
 ![대표 이미지](images/03_Gemini/03_Gemini_1_thumbnail.png)
 
 본문에 그림이 들어가면 좋을 자리는 아래와 같다. 실제 이미지는 아직 넣지 않았다.
@@ -44,3 +38,11 @@ Gemini는 그 동료다. 메일함을 꿰고 있고, 캘린더를 알고, 어제
 〔이미지 자리 — 본문에서 3번째 특장점을 설명하는 대목〕
 
 〔이미지 자리 — 총평 문단 바로 위〕
+
+## 이미지 생성 프롬프트
+
+1. A helpful character standing in front of a wall of neatly organized folders and a calendar, already holding out a printed document, small icons of an envelope, a photo, and a sound wave floating nearby, flat vector illustration style, soft rounded shapes, minimal color palette, no text or logos in the image, 16:9 composition.
+2. A character handing over a ready, clipped stack of documents before another figure has even finished asking, small folder and envelope icons floating around them, flat vector illustration style, soft rounded shapes, minimal color palette, no text or logos in the image, 4:3 composition.
+3. A character standing on a large globe made of interconnected glowing web threads, gathering several strands together into one single glowing answer bubble, flat vector illustration style, soft rounded shapes, minimal color palette, no text or logos in the image, 4:3 composition.
+4. A character juggling three floating icons at once — a photograph, a film reel, and a sound wave — all moving smoothly together, flat vector illustration style, soft rounded shapes, minimal color palette, no text or logos in the image, 4:3 composition.
+5. A character offering a neatly organized folder with a slightly uneasy smile, a small subtle eye icon quietly visible in the background, flat vector illustration style, soft rounded shapes, minimal color palette, no text or logos in the image, 4:3 composition.

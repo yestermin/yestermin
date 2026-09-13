@@ -1,6 +1,4 @@
-# Grok — 실시간 트렌드는 제일 빠른데, 필터가 없다
-
-*시리즈: 전세계 AI 특장점 열전 | 4/20 | 오늘의 주인공: Grok (xAI) · 2026년 하반기 기준*
+# 04. Grok — 실시간 트렌드는 제일 빠른데, 필터가 없다
 
 ---
 
@@ -29,10 +27,6 @@ SNS에서 뭐가 터졌는지 빠르게 확인하고 싶을 때. 딱딱하지 �
 지금 이 순간의 트렌드를 얼마나 빨리 잡아내는지로 보면 ⭐️⭐️⭐️½ (3.9/5) — 실시간성과 개성은 최강, 격식 있는 업무엔 호불호.
 
 ---
-
-*다음 편 예고: [AI 인물열전 #5] DeepSeek — "가성비로 승부하는 다크호스" 편.*
-
----
 ![대표 이미지](images/04_Grok/04_Grok_1_thumbnail.png)
 
 본문에 그림이 들어가면 좋을 자리는 아래와 같다. 실제 이미지는 아직 넣지 않았다.
@@ -44,3 +38,11 @@ SNS에서 뭐가 터졌는지 빠르게 확인하고 싶을 때. 딱딱하지 �
 〔이미지 자리 — 본문에서 3번째 특장점을 설명하는 대목〕
 
 〔이미지 자리 — 총평 문단 바로 위〕
+
+## 이미지 생성 프롬프트
+
+1. An energetic character riding a fast-moving stream of speech bubbles and trending arrows bursting out of a glowing phone screen, playful grin, hair blown back by the speed, flat vector illustration style, soft rounded shapes, minimal color palette, no text or logos in the image, 16:9 composition.
+2. A character standing in front of a giant live scrolling feed made of speech bubbles and trending arrow icons, pointing excitedly at the very newest one at the top, flat vector illustration style, soft rounded shapes, minimal color palette, no text or logos in the image, 4:3 composition.
+3. A character telling a joke with a bright speech bubble containing a small laughing icon, two more formal-looking characters nearby glancing over with mild surprise, flat vector illustration style, soft rounded shapes, minimal color palette, no text or logos in the image, 4:3 composition.
+4. A character standing confidently at a fork in the road with two signposts, one labeled with a cautious symbol and one with a bold symbol, striding down the bold path without hesitation, flat vector illustration style, soft rounded shapes, minimal color palette, no text or logos in the image, 4:3 composition.
+5. A character holding a microphone under a spinning disco light, half of the small crowd around them cheering wildly and the other half looking uncertain, flat vector illustration style, soft rounded shapes, minimal color palette, no text or logos in the image, 4:3 composition.

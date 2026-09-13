@@ -1,6 +1,4 @@
-# Claude — "일 잘하는데 예의도 바른 그 동료" 스타일의 모범생 개발자
-
-*시리즈: 전세계 AI 특장점 열전 | 2/20 | 오늘의 주인공: Claude (Anthropic) · 2026년 하반기 기준*
+# 02. Claude — "일 잘하는데 예의도 바른 그 동료" 스타일의 모범생 개발자
 
 ---
 
@@ -31,10 +29,6 @@ Claude는 그런 타입이다. 회사 이름에 아예 "AI 안전"을 박아넣�
 긴 작업을 끝까지 믿고 맡길 수 있는지를 기준으로 삼으면 ⭐️⭐️⭐️⭐️⭐️ (4.6/5) — 코딩·문서 작업 신뢰도 최상위권, 대신 텐션은 스스로 챙겨야 함.
 
 ---
-
-*다음 편 예고: [AI 인물열전 #3] Gemini — "구글 검색창이 갑자기 말을 하기 시작했다" 편.*
-
----
 ![대표 이미지](images/02_Claude/02_Claude_1_thumbnail.png)
 
 본문에 그림이 들어가면 좋을 자리는 아래와 같다. 실제 이미지는 아직 넣지 않았다.
@@ -46,3 +40,11 @@ Claude는 그런 타입이다. 회사 이름에 아예 "AI 안전"을 박아넣�
 〔이미지 자리 — 본문에서 3번째 특장점을 설명하는 대목〕
 
 〔이미지 자리 — 총평 문단 바로 위〕
+
+## 이미지 생성 프롬프트
+
+1. A calm, understated character quietly reviewing a thick stack of code pages at a tidy desk late at night, a single warm desk lamp lighting the scene, conveying quiet reliability rather than flash, flat vector illustration style, soft rounded shapes, minimal color palette, no text or logos in the image, 16:9 composition.
+2. A character holding one end of a very long unrolled scroll of text that stretches across the whole scene, pointing back precisely at a small detail near the far end of the scroll, flat vector illustration style, soft rounded shapes, minimal color palette, no text or logos in the image, 4:3 composition.
+3. A character carefully placing one final puzzle piece into a large, precisely aligned puzzle, every other piece already fitting cleanly, flat vector illustration style, soft rounded shapes, minimal color palette, no text or logos in the image, 4:3 composition.
+4. A character holding up two speech bubbles side by side, one bold and oversized, the other smaller with a gentle question mark, calmly choosing the cautious one, flat vector illustration style, soft rounded shapes, minimal color palette, no text or logos in the image, 4:3 composition.
+5. A quiet character working calmly at a desk under a single lamp late at night, a dark city skyline visible through the window behind them, flat vector illustration style, soft rounded shapes, minimal color palette, no text or logos in the image, 4:3 composition.
