@@ -1,6 +1,4 @@
-# Canva (Magic Studio) — "디자인 1도 몰라도 되는" 만능 디자인 대행업체
-
-*시리즈: 전세계 AI 특장점 열전 | 6/20 | 오늘의 주인공: Canva · 2026년 하반기 기준*
+# 06. Canva (Magic Studio) — "디자인 1도 몰라도 되는" 만능 디자인 대행업체
 
 ---
 
@@ -29,10 +27,6 @@ Canva가 파는 건 예술성이 아니라 속도다. 그리고 오후 네 시 �
 마감 앞두고 얼마나 빨리 뽑아낼 수 있는지로 매기면 ⭐️⭐️⭐️⭐️ (4.3/5) — 실무 속도 최강, 예술성보다 생산성에 올인.
 
 ---
-
-*다음 편 예고: [AI 인물열전 #7] Midjourney — "예술가 영혼을 장착한 그림쟁이" 편.*
-
----
 ![대표 이미지](images/06_Canva/06_Canva_1_thumbnail.png)
 
 본문에 그림이 들어가면 좋을 자리는 아래와 같다. 실제 이미지는 아직 넣지 않았다.
@@ -44,3 +38,11 @@ Canva가 파는 건 예술성이 아니라 속도다. 그리고 오후 네 시 �
 〔이미지 자리 — 본문에서 3번째 특장점을 설명하는 대목〕
 
 〔이미지 자리 — 총평 문단 바로 위〕
+
+## 이미지 생성 프롬프트
+
+1. A cheerful character rapidly producing several colorful poster designs at once on a bright desk, the papers fanning out like a card trick in mid-air, flat vector illustration style, soft rounded shapes, minimal color palette, no text or logos in the image, 16:9 composition.
+2. A character typing a short phrase into a glowing box while several different colorful poster designs pop out around them like a fan of cards, flat vector illustration style, soft rounded shapes, minimal color palette, no text or logos in the image, 4:3 composition.
+3. A character pressing a single button that instantly lifts a subject cleanly out of a busy background, the background fading smoothly away behind it, flat vector illustration style, soft rounded shapes, minimal color palette, no text or logos in the image, 4:3 composition.
+4. A group of ordinary, non-artist-looking characters casually assembling a polished template together like building blocks, flat vector illustration style, soft rounded shapes, minimal color palette, no text or logos in the image, 4:3 composition.
+5. A character finishing a poster design beside a clock showing a time close to a deadline, relieved expression, a clean finished poster glowing on the screen in front of them, flat vector illustration style, soft rounded shapes, minimal color palette, no text or logos in the image, 4:3 composition.

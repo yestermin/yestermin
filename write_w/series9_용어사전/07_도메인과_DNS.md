@@ -1,6 +1,4 @@
-# 도메인과 DNS — 인터넷의 전화번호부
-
-*시리즈: 3분 용어 사전 | 7/10*
+# 07. 도메인과 DNS — 인터넷의 전화번호부
 
 ---
 
@@ -51,4 +49,19 @@
 
 ---
 
-*다음 편: 오픈소스 — 설계도를 공개한 건축가들*
+![대표 이미지](images/07_도메인과_DNS/07_도메인과_DNS_1_cover.png)
+
+본문에 그림이 들어가면 좋을 자리는 아래와 같다. 실제 이미지는 아직 넣지 않았다.
+
+〔이미지 자리 — 스마트폰 연락처에서 이름을 누르자 전화번호부가 실제 숫자 번호를 찾아 연결해주는 장면〕
+
+〔이미지 자리 — 이사한 가게의 새 간판이 걸린 강남 매장과, 옛 주소만 들고 문 닫힌 자리 앞에서 서성이는 손님을 대비한 장면〕
+
+〔이미지 자리 — 도메인 갱신을 깜빡해 하루아침에 낯선 광고판으로 바뀐 가게 간판을 보고 놀라는 사장님〕
+
+## 이미지 생성 프롬프트
+
+1. 대표 이미지: A flat illustration of a hand pressing a contact name on a smartphone, with a dotted line arrow leading to an old-fashioned phone book that reveals the matching numeric phone number, symbolizing a domain name being translated into a numeric address, flat vector illustration style, a simple everyday-object metaphor explaining a tech concept, minimal color palette, no text in the image, 16:9 composition.
+2. 이미지 자리 1: A flat vector scene of a hand tapping a contact name on a smartphone screen, with a thought-bubble style phone book flipping open to a matching numeric entry, flat vector illustration style, a simple everyday-object metaphor explaining a tech concept, minimal color palette, no text in the image, 4:3 composition.
+3. 이미지 자리 2: A split flat vector scene, left side a shop with a bright new sign in a new location, right side a confused customer standing in front of a shuttered old storefront holding an outdated address slip, flat vector illustration style, a simple everyday-object metaphor explaining a tech concept, minimal color palette, no text in the image, 4:3 composition.
+4. 이미지 자리 3: A flat vector illustration of a shop owner staring in shock at their own storefront sign, which overnight has been replaced by a generic unfamiliar advertisement billboard, flat vector illustration style, a simple everyday-object metaphor explaining a tech concept, minimal color palette, no text in the image, 4:3 composition.

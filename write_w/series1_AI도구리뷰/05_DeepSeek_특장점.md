@@ -1,6 +1,4 @@
-# DeepSeek — "가성비로 업계를 흔든 다크호스" 스타일의 반란군
-
-*시리즈: 전세계 AI 특장점 열전 | 5/20 | 오늘의 주인공: DeepSeek · 2026년 하반기 기준*
+# 05. DeepSeek — "가성비로 업계를 흔든 다크호스" 스타일의 반란군
 
 ---
 
@@ -25,13 +23,6 @@
 지갑 사정을 최우선에 놓고 채점하면 ⭐️⭐️⭐️⭐️ (4.1/5) — 가성비·오픈성 최강, 생태계 성숙도는 아직 추격 중.
 
 ---
-
-*이어지는 편부터는 대화형 AI를 떠나 Canva, Midjourney, GitHub Copilot 같은 실무 특화 도구들로 넘어갑니다.*
-
-
-*다음 편 예고: Canva — 손 빠른 디자인 대행업체 알바생 편.*
-
----
 ![대표 이미지](images/05_DeepSeek/05_DeepSeek_1_thumbnail.png)
 
 본문에 그림이 들어가면 좋을 자리는 아래와 같다. 실제 이미지는 아직 넣지 않았다.
@@ -43,3 +34,11 @@
 〔이미지 자리 — 본문에서 3번째 특장점을 설명하는 대목〕
 
 〔이미지 자리 — 총평 문단 바로 위〕
+
+## 이미지 생성 프롬프트
+
+1. A casual character in simple clothing standing confidently among formally dressed figures, calmly holding an open folder of freely shared blueprints, relaxed self-assured posture, flat vector illustration style, soft rounded shapes, minimal color palette, no text or logos in the image, 16:9 composition.
+2. A character calmly looking at a small, short receipt with a relaxed smile, while other figures nearby stare wide-eyed at long unrolling receipts stretching to the floor, flat vector illustration style, soft rounded shapes, minimal color palette, no text or logos in the image, 4:3 composition.
+3. A character opening a transparent box with visible gears and blueprints inside, freely offering it to another figure standing nearby, flat vector illustration style, soft rounded shapes, minimal color palette, no text or logos in the image, 4:3 composition.
+4. A character calmly untangling a small precise knot with a single simple tool, while several much larger bulky tools sit unused off to the side, flat vector illustration style, soft rounded shapes, minimal color palette, no text or logos in the image, 4:3 composition.
+5. A modest, small storefront quietly outshining a row of glamorous flashy storefronts nearby, a small curious crowd gathering at the modest one instead, flat vector illustration style, soft rounded shapes, minimal color palette, no text or logos in the image, 4:3 composition.

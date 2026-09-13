@@ -1,6 +1,4 @@
-# Midjourney — "예술가 영혼을 장착한" 비주얼 끝판왕
-
-*시리즈: 전세계 AI 특장점 열전 | 7/20 | 오늘의 주인공: Midjourney · 2026년 하반기 기준*
+# 07. Midjourney — "예술가 영혼을 장착한" 비주얼 끝판왕
 
 ---
 
@@ -29,10 +27,6 @@
 그림의 때깔 하나만 놓고 채점하면 ⭐️⭐️⭐️⭐️⭐️ (4.5/5) — 비주얼 완성도 최상위권, 실용성보다 예술성에 특화.
 
 ---
-
-*다음 편 예고: [AI 인물열전 #8] GitHub Copilot — "옆자리에서 계속 자동완성 쳐주는 페어프로그래머" 편.*
-
----
 ![대표 이미지](images/07_Midjourney/07_Midjourney_1_thumbnail.png)
 
 본문에 그림이 들어가면 좋을 자리는 아래와 같다. 실제 이미지는 아직 넣지 않았다.
@@ -44,3 +38,11 @@
 〔이미지 자리 — 본문에서 3번째 특장점을 설명하는 대목〕
 
 〔이미지 자리 — 총평 문단 바로 위〕
+
+## 이미지 생성 프롬프트
+
+1. An artist-like character with a paintbrush standing before an easel, a dreamy atmospheric painted scene emerging from a few small floating words in front of them, flat vector illustration style, soft rounded shapes, minimal color palette, no text or logos in the image, 16:9 composition.
+2. An artist character tilting their head thoughtfully at a few floating words, then painting a richly atmospheric moody scene onto a canvas, flat vector illustration style, soft rounded shapes, minimal color palette, no text or logos in the image, 4:3 composition.
+3. An artist adjusting glowing dial knobs beside a canvas, the painting shifting between a calm version and a wildly chaotic version of the same scene, flat vector illustration style, soft rounded shapes, minimal color palette, no text or logos in the image, 4:3 composition.
+4. A wall covered with many different painted artworks in a shared gallery space, small figures exchanging brushes and notes between the paintings, flat vector illustration style, soft rounded shapes, minimal color palette, no text or logos in the image, 4:3 composition.
+5. An artist proudly presenting a beautiful painted scene, but a small sign within the painting shows garbled, illegible scribbles instead of real letters, flat vector illustration style, soft rounded shapes, minimal color palette, no text or logos in the image, 4:3 composition.
