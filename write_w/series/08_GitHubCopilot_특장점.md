@@ -1,4 +1,4 @@
-# [AI 인물열전 #8] GitHub Copilot — 옆자리에서 계속 자동완성 쳐주는 페어프로그래머
+# GitHub Copilot — 옆자리에서 계속 자동완성 쳐주는 페어프로그래머
 
 *시리즈: 전세계 AI 특장점 열전 | 8/20 | 오늘의 주인공: GitHub Copilot (Microsoft/OpenAI) · 2026년 하반기 기준*
 
