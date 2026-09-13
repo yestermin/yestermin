@@ -1,6 +1,4 @@
-# BGM·오디오 판매 — 귀에 걸리는 15초를 파는 장사
-
-*시리즈: AI 부업 열전 | 10/10 | 오늘의 주인공: AI 배경음악 · 효과음 판매*
+# 10. BGM·오디오 판매 — 귀에 걸리는 15초를 파는 장사
 
 ---
 
@@ -56,3 +54,11 @@ AI는 진입장벽을 낮춰준다. 그런데 진입장벽이 낮은 곳에는 �
 〔이미지 자리 — 본문에서 3번째 이유를 설명하는 대목〕
 
 〔이미지 자리 — 총평 문단 바로 위〕
+
+## 이미지 생성 프롬프트
+
+1. A small music shop selling rolls of background music like wallpaper patterns, a composer hanging a calm plain-patterned music roll on the wall while a video screen in the background quietly plays it unnoticed, soft warm lighting, flat vector illustration style, soft rounded shapes, minimal color palette, no text or logos in the image, 16:9 composition
+2. A musician placing a small music note tile onto a wallpaper-covered wall, while several different gatekeeper figures at separate doors each hold a different rulebook, flat vector illustration style, soft rounded shapes, minimal color palette, no text or logos in the image, 4:3 composition
+3. A composer checking a licensing scroll before uploading a music note into a cloud-shaped library, a padlock icon glowing on a premium-tier symbol, flat vector illustration style, soft rounded shapes, minimal color palette, no text or logos in the image, 4:3 composition
+4. Two identical twin music-note characters standing side by side on a vast music library shelf, indistinguishable among countless other twin notes, flat vector illustration style, soft rounded shapes, minimal color palette, no text or logos in the image, 4:3 composition
+5. A composer carefully reading a long scroll of rules beside a softly glowing keyboard, balancing an easy melody against a stack of legal documents, flat vector illustration style, soft rounded shapes, minimal color palette, no text or logos in the image, 4:3 composition

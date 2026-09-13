@@ -1,6 +1,4 @@
-# API vs SDK — "API 붙였어요"라고 말했는데 사실은 SDK를 깔았을 때
-
-*시리즈: 그래서 뭐가 다른데 | 1/10*
+# 01. API vs SDK — "API 붙였어요"라고 말했는데 사실은 SDK를 깔았을 때
 
 ---
 
@@ -35,8 +33,6 @@ SDK가 제공되고 그 언어를 쓰고 있다면 SDK를 쓴다. 인증 토큰 
 API는 무엇을 할 수 있는가를 정하고, SDK는 그걸 얼마나 편하게 할 것인가를 정한다. 기획서에 옮겨 적을 일이 생기면 그냥 "○○ 연동"이라고 쓰는 게 가장 사고가 안 난다.
 
 
-*다음 편: 머신러닝 vs 딥러닝 — 둘은 라이벌이 아니라 큰집과 작은집이다*
-
 ---
 ![대표 이미지](images/01_API_vs_SDK/01_API_vs_SDK_1_cover.png)
 
@@ -49,3 +45,11 @@ API는 무엇을 할 수 있는가를 정하고, SDK는 그걸 얼마나 편하�
 〔이미지 자리 — 본문에서 3번째 논점을 설명하는 대목〕
 
 〔이미지 자리 — 마지막 문단 바로 위〕
+
+## 이미지 생성 프롬프트
+
+1. A split-screen scene: on the left, a minimalist restaurant order counter with a menu board and a hand passing an order slip through a service window; on the right, a sealed home meal-kit box with visible ingredient pouches and a recipe card on a kitchen counter, flat vector illustration style, split-composition showing two contrasting concepts side by side, minimal color palette, no text in the image, 16:9 composition.
+2. A restaurant order counter with a simple menu board on one side, and beside it an oversized meal-kit box with one small needed sauce pouch next to a pile of unnecessary spice packets spilling out, flat vector illustration style, split-composition showing two contrasting concepts side by side, minimal color palette, no text in the image, 4:3 composition.
+3. A small blueprint document representing a contract or interface, nested inside a larger labeled toolbox crate with gears and a shipping label, showing one object wrapped inside a bigger one, flat vector illustration style, split-composition showing two contrasting concepts side by side, minimal color palette, no text in the image, 4:3 composition.
+4. A storefront sign above a doorway next to a computer terminal displaying a download/install icon, the signage and the terminal screen visually mismatched to suggest a naming confusion, flat vector illustration style, split-composition showing two contrasting concepts side by side, minimal color palette, no text in the image, 4:3 composition.
+5. A signpost at a fork in a road: one path leads directly to a server tower icon, the other path passes through an archway shaped like a toolbox before reaching the same tower, with a small figure standing at the fork, flat vector illustration style, split-composition showing two contrasting concepts side by side, minimal color palette, no text in the image, 4:3 composition.
