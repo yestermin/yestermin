@@ -1,6 +1,4 @@
-# Perplexity — 출처까지 딱딱 붙여주는 성실한 리서치 조교
-
-*시리즈: 전세계 AI 특장점 열전 | 9/20 | 오늘의 주인공: Perplexity · 2026년 하반기 기준*
+# 09. Perplexity — 출처까지 딱딱 붙여주는 성실한 리서치 조교
 
 ---
 
@@ -28,10 +26,6 @@ Perplexity는 그 질문을 미리 받아치는 쪽으로 설계됐다. 답을 �
 출처를 믿고 쓸 수 있는지를 기준으로 삼으면 ⭐️⭐️⭐️⭐️ (4.1/5) — 출처 신뢰도·리서치 효율 최강, 창작 작업은 원래 담당 분야가 아님.
 
 ---
-
-*다음 편 예고: [AI 인물열전 #10] Notion AI — "이미 내 업무 문서 다 보고 있는 조용한 총무" 편.*
-
----
 ![대표 이미지](images/09_Perplexity/09_Perplexity_1_thumbnail.png)
 
 본문에 그림이 들어가면 좋을 자리는 아래와 같다. 실제 이미지는 아직 넣지 않았다.
@@ -43,3 +37,11 @@ Perplexity는 그 질문을 미리 받아치는 쪽으로 설계됐다. 답을 �
 〔이미지 자리 — 본문에서 3번째 특장점을 설명하는 대목〕
 
 〔이미지 자리 — 총평 문단 바로 위〕
+
+## 이미지 생성 프롬프트
+
+1. A studious character handing over an answer sheet with several small numbered tags attached, each tag linking to a tiny open book or link icon, flat vector illustration style, soft rounded shapes, minimal color palette, no text or logos in the image, 16:9 composition.
+2. A character presenting a document with small numbered tags that connect back to a row of open books and glowing link icons, flat vector illustration style, soft rounded shapes, minimal color palette, no text or logos in the image, 4:3 composition.
+3. A character calmly holding one condensed glowing scroll while a tall pile of many small browser-tab-shaped papers collapses smoothly into it, flat vector illustration style, soft rounded shapes, minimal color palette, no text or logos in the image, 4:3 composition.
+4. A character following a clear branching path of small signposts, each pointing to a related question, leading deeper into a glowing library, flat vector illustration style, soft rounded shapes, minimal color palette, no text or logos in the image, 4:3 composition.
+5. A relieved character sleeping soundly at a desk, a neatly footnoted report resting beside them, a small clock on the wall showing late night, flat vector illustration style, soft rounded shapes, minimal color palette, no text or logos in the image, 4:3 composition.

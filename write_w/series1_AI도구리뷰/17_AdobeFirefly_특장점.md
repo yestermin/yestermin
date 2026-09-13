@@ -1,6 +1,4 @@
-# Adobe Firefly — "이거 써도 되는 거 맞아요?"에 답하기 쉬운 이미지 AI
-
-*시리즈: 전세계 AI 특장점 열전 | 17/20 | 오늘의 주인공: Adobe Firefly · 2026년 하반기 기준*
+# 17. Adobe Firefly — "이거 써도 되는 거 맞아요?"에 답하기 쉬운 이미지 AI
 
 ---
 
@@ -25,10 +23,6 @@ Adobe Firefly는 그 질문에 답하기 쉬운 쪽으로 자리를 잡았다. �
 결재 올리기 얼마나 편한지, 그러니까 상업적 안전성으로 매기면 ⭐️⭐️⭐️⭐ (4.1/5) — 상업적 안전성과 기존 워크플로우 통합 최강, 파격적 개성은 다소 부족.
 
 ---
-
-*다음 편 예고: [AI 인물열전 #18] DeepL — "뉘앙스까지 살려내는" 통역 전문가 편.*
-
----
 ![대표 이미지](images/17_AdobeFirefly/17_AdobeFirefly_1_thumbnail.png)
 
 본문에 그림이 들어가면 좋을 자리는 아래와 같다. 실제 이미지는 아직 넣지 않았다.
@@ -40,3 +34,11 @@ Adobe Firefly는 그 질문에 답하기 쉬운 쪽으로 자리를 잡았다. �
 〔이미지 자리 — 본문에서 3번째 특장점을 설명하는 대목〕
 
 〔이미지 자리 — 총평 문단 바로 위〕
+
+## 이미지 생성 프롬프트
+
+1. A careful character working inside a familiar photo-editing canvas, a small glowing checkmark shield icon floating beside their generated image, flat vector illustration style, soft rounded shapes, minimal color palette, no text or logos in the image, 16:9 composition.
+2. A character handing a generated image to another figure holding a clipboard, a small checkmark stamp appearing calmly between them, flat vector illustration style, soft rounded shapes, minimal color palette, no text or logos in the image, 4:3 composition.
+3. A character adjusting an image with a generative brush directly inside a familiar layered editing canvas, no new window opening anywhere, flat vector illustration style, soft rounded shapes, minimal color palette, no text or logos in the image, 4:3 composition.
+4. A character fine-tuning small dial sliders labeled with light, color, and composition symbols beside their artwork, flat vector illustration style, soft rounded shapes, minimal color palette, no text or logos in the image, 4:3 composition.
+5. A character calmly placing a finished image on an approval desk, a small stamp of approval landing softly without hesitation, flat vector illustration style, soft rounded shapes, minimal color palette, no text or logos in the image, 4:3 composition.

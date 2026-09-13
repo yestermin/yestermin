@@ -1,6 +1,4 @@
-# ElevenLabs — 목소리 자체를 복제해버리는 만능 성우
-
-*시리즈: 전세계 AI 특장점 열전 | 15/20 | 오늘의 주인공: ElevenLabs · 2026년 하반기 기준*
+# 15. ElevenLabs — 목소리 자체를 복제해버리는 만능 성우
 
 ---
 
@@ -31,10 +29,6 @@ ElevenLabs로 만든 음성을 처음 들은 사람들이 제일 많이 하는 �
 목소리 품질 하나만 놓고 매기면 ⭐️⭐️⭐️⭐️ (4.3/5) — 음성 품질·클로닝 기술 최상위권, 윤리적 사용 책임은 사용자 몫.
 
 ---
-
-*다음 편 예고: [AI 인물열전 #16] Runway — "텍스트로 영화 한 장면을 만드는" 영상 감독 편.*
-
----
 ![대표 이미지](images/15_ElevenLabs/15_ElevenLabs_1_thumbnail.png)
 
 본문에 그림이 들어가면 좋을 자리는 아래와 같다. 실제 이미지는 아직 넣지 않았다.
@@ -46,3 +40,11 @@ ElevenLabs로 만든 음성을 처음 들은 사람들이 제일 많이 하는 �
 〔이미지 자리 — 본문에서 3번째 특장점을 설명하는 대목〕
 
 〔이미지 자리 — 총평 문단 바로 위〕
+
+## 이미지 생성 프롬프트
+
+1. A character standing at a microphone in a small home studio, smooth sound waves flowing outward, a translucent clone silhouette standing quietly beside them, flat vector illustration style, soft rounded shapes, minimal color palette, no text or logos in the image, 16:9 composition.
+2. A character speaking into a microphone, a visible sound waveform in front of them with one small natural pause gently marked within it, flat vector illustration style, soft rounded shapes, minimal color palette, no text or logos in the image, 4:3 composition.
+3. A character speaking into a microphone while an identical translucent echo figure speaks the exact same waveform beside them, flat vector illustration style, soft rounded shapes, minimal color palette, no text or logos in the image, 4:3 composition.
+4. A character surrounded by several small flag icons, the same smooth sound waveform flowing evenly through each one, flat vector illustration style, soft rounded shapes, minimal color palette, no text or logos in the image, 4:3 composition.
+5. A character standing alone at a microphone at midnight with no one else around, a small warning sign placed quietly nearby, flat vector illustration style, soft rounded shapes, minimal color palette, no text or logos in the image, 4:3 composition.

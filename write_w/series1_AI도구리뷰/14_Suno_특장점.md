@@ -1,6 +1,4 @@
-# Suno — 가사만 던지면 노래를 완성해주는 즉석 작곡가
-
-*시리즈: 전세계 AI 특장점 열전 | 14/20 | 오늘의 주인공: Suno · 2026년 하반기 기준*
+# 14. Suno — 가사만 던지면 노래를 완성해주는 즉석 작곡가
 
 ---
 
@@ -29,10 +27,6 @@ Suno는 그걸 해주는 서비스다. 동네 스튜디오에 상주하는 즉�
 작곡을 모르는 사람도 곡을 완성하게 해주는지로 보면 ⭐️⭐️⭐️⭐ (4.1/5) — 창작 진입장벽 제거 최강, 프로급 프로듀싱은 아직 사람 손길 필요.
 
 ---
-
-*다음 편 예고: [AI 인물열전 #15] ElevenLabs — "목소리 자체를 복제하는" 성우 편.*
-
----
 ![대표 이미지](images/14_Suno/14_Suno_1_thumbnail.png)
 
 본문에 그림이 들어가면 좋을 자리는 아래와 같다. 실제 이미지는 아직 넣지 않았다.
@@ -44,3 +38,11 @@ Suno는 그걸 해주는 서비스다. 동네 스튜디오에 상주하는 즉�
 〔이미지 자리 — 본문에서 3번째 특장점을 설명하는 대목〕
 
 〔이미지 자리 — 총평 문단 바로 위〕
+
+## 이미지 생성 프롬프트
+
+1. A character humming softly into a small glowing device that instantly assembles sheet music, a guitar, and a microphone around a finished song, flat vector illustration style, soft rounded shapes, minimal color palette, no text or logos in the image, 16:9 composition.
+2. A character typing a short lyric line into a glowing box while a full band of instrument icons assembles instantly around them, flat vector illustration style, soft rounded shapes, minimal color palette, no text or logos in the image, 4:3 composition.
+3. A character standing among several distinct musical style icons — a ballad note, a hip-hop cap, a rock guitar, a trot fan — all equally at ease, flat vector illustration style, soft rounded shapes, minimal color palette, no text or logos in the image, 4:3 composition.
+4. A character with no instrument in hand simply humming, a glowing musical staff forming gently in the air in front of them, flat vector illustration style, soft rounded shapes, minimal color palette, no text or logos in the image, 4:3 composition.
+5. A character humming happily in a small shower stall, a glowing music chart billboard standing far in the distance separated by a long winding road, flat vector illustration style, soft rounded shapes, minimal color palette, no text or logos in the image, 4:3 composition.

@@ -1,6 +1,4 @@
-# Qwen — 중국어와 한국어를 같이 잘하는 오픈소스 진영의 실속파
-
-*시리즈: 전세계 AI 특장점 열전 | 20/20 | 오늘의 주인공: Qwen (Alibaba) · 2026년 하반기 기준*
+# 20. Qwen — 중국어와 한국어를 같이 잘하는 오픈소스 진영의 실속파
 
 ---
 
@@ -31,10 +29,6 @@
 스무 편을 쓰고 나서 남은 생각은 의외로 단순하다. 목록이 길어질수록 중요해지는 건 목록이 아니라 지금 내가 붙잡고 있는 일이 뭔지 아는 쪽이다. 다음에 누굴 부를지는 "이거 다뤄줘" 한마디에 달렸다.
 
 ---
-
-*시즌2 전체 목록: 11 Microsoft Copilot · 12 Cursor · 13 Character.AI · 14 Suno · 15 ElevenLabs · 16 Runway · 17 Adobe Firefly · 18 DeepL · 19 Meta AI · 20 Qwen*
-
----
 ![대표 이미지](images/20_Qwen/20_Qwen_1_thumbnail.png)
 
 본문에 그림이 들어가면 좋을 자리는 아래와 같다. 실제 이미지는 아직 넣지 않았다.
@@ -46,3 +40,11 @@
 〔이미지 자리 — 본문에서 3번째 특장점을 설명하는 대목〕
 
 〔이미지 자리 — 총평 문단 바로 위〕
+
+## 이미지 생성 프롬프트
+
+1. A calm factory-manager-like character standing before a neat shelf of differently sized labeled boxes, from small to large, each ready to ship, flat vector illustration style, soft rounded shapes, minimal color palette, no text or logos in the image, 16:9 composition.
+2. A character offering a lineup of boxes in clearly graduated sizes from tiny to large, each one fitting a different small workstation, flat vector illustration style, soft rounded shapes, minimal color palette, no text or logos in the image, 4:3 composition.
+3. A character arranging several specialized toolboxes, each labeled with a distinct small icon like a wrench or a calculator, flat vector illustration style, soft rounded shapes, minimal color palette, no text or logos in the image, 4:3 composition.
+4. A character opening a transparent crate revealing adjustable gears inside, freely handing tools to another figure to customize, flat vector illustration style, soft rounded shapes, minimal color palette, no text or logos in the image, 4:3 composition.
+5. A character standing before an overwhelmingly long menu board scratching their head, while a satisfied customer nearby enjoys a dish regardless of which one they picked, flat vector illustration style, soft rounded shapes, minimal color palette, no text or logos in the image, 4:3 composition.

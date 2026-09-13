@@ -1,6 +1,4 @@
-# GitHub Copilot — 옆자리에서 계속 자동완성 쳐주는 페어프로그래머
-
-*시리즈: 전세계 AI 특장점 열전 | 8/20 | 오늘의 주인공: GitHub Copilot (Microsoft/OpenAI) · 2026년 하반기 기준*
+# 08. GitHub Copilot — 옆자리에서 계속 자동완성 쳐주는 페어프로그래머
 
 ---
 
@@ -27,10 +25,6 @@ VS Code, JetBrains처럼 개발자가 실제로 코드를 짜는 화면 안에�
 코딩 흐름을 얼마나 안 끊는지로 매기면 ⭐️⭐️⭐️⭐️ (4.2/5) — 코딩 흐름 방해 없는 자동완성 최강자, 대화형 설계 논의는 약함.
 
 ---
-
-*다음 편 예고: [AI 인물열전 #9] Perplexity — "출처까지 딱딱 붙여주는 리서치 조교" 편.*
-
----
 ![대표 이미지](images/08_GitHubCopilot/08_GitHubCopilot_1_thumbnail.png)
 
 본문에 그림이 들어가면 좋을 자리는 아래와 같다. 실제 이미지는 아직 넣지 않았다.
@@ -42,3 +36,11 @@ VS Code, JetBrains처럼 개발자가 실제로 코드를 짜는 화면 안에�
 〔이미지 자리 — 본문에서 3번째 특장점을 설명하는 대목〕
 
 〔이미지 자리 — 총평 문단 바로 위〕
+
+## 이미지 생성 프롬프트
+
+1. Two characters typing side by side at one long keyboard in comfortable silence, a smooth glowing line of code flowing across a shared screen between them, flat vector illustration style, soft rounded shapes, minimal color palette, no text or logos in the image, 16:9 composition.
+2. A character typing the start of a line at a keyboard while a second line of code completes itself automatically just ahead of the blinking cursor, flat vector illustration style, soft rounded shapes, minimal color palette, no text or logos in the image, 4:3 composition.
+3. A character starting one small repeated block shape, with identical blocks instantly stacking up beside it on their own, flat vector illustration style, soft rounded shapes, minimal color palette, no text or logos in the image, 4:3 composition.
+4. A character standing before a large open folder structure of interconnected file icons, calmly tracing threads across all of them at once, flat vector illustration style, soft rounded shapes, minimal color palette, no text or logos in the image, 4:3 composition.
+5. Two characters at the end of the day, one with a small surprised expression realizing they exchanged no words all day, a warmly glowing code screen between them, flat vector illustration style, soft rounded shapes, minimal color palette, no text or logos in the image, 4:3 composition.

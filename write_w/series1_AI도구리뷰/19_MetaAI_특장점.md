@@ -1,6 +1,4 @@
-# Meta AI — 인스타·왓츠앱에 이미 들어와 있는 옆집 친구
-
-*시리즈: 전세계 AI 특장점 열전 | 19/20 | 오늘의 주인공: Meta AI (Llama 기반) · 2026년 하반기 기준*
+# 19. Meta AI — 인스타·왓츠앱에 이미 들어와 있는 옆집 친구
 
 ---
 
@@ -26,10 +24,6 @@ SNS 안에서 바로 이미지를 만들어 스티커나 게시물에 쓰는 것
 따로 찾아갈 필요 없는 접근성 하나로 채점하면 ⭐️⭐️⭐️½ (3.9/5) — 접근성·오픈소스 생태계 영향력 최강, 전문 업무 깊이는 상대적으로 얕음.
 
 ---
-
-*다음 편 예고: [AI 인물열전 #20] Qwen — "아시아 시장을 정조준한" 오픈소스 다크호스 편.*
-
----
 ![대표 이미지](images/19_MetaAI/19_MetaAI_1_thumbnail.png)
 
 본문에 그림이 들어가면 좋을 자리는 아래와 같다. 실제 이미지는 아직 넣지 않았다.
@@ -41,3 +35,11 @@ SNS 안에서 바로 이미지를 만들어 스티커나 게시물에 쓰는 것
 〔이미지 자리 — 본문에서 3번째 특장점을 설명하는 대목〕
 
 〔이미지 자리 — 총평 문단 바로 위〕
+
+## 이미지 생성 프롬프트
+
+1. A friendly neighbor-like character already sitting comfortably inside a living room made of chat-bubble shaped furniture, a doorway open behind them, flat vector illustration style, soft rounded shapes, minimal color palette, no text or logos in the image, 16:9 composition.
+2. A character stepping through a doorway only to find a friendly figure already seated inside waiting, small chat-bubble icons decorating the room, flat vector illustration style, soft rounded shapes, minimal color palette, no text or logos in the image, 4:3 composition.
+3. The same friendly character shown split in two: one half chatting casually in a living room, the other half quietly laying glowing pipes and infrastructure beneath the floor, flat vector illustration style, soft rounded shapes, minimal color palette, no text or logos in the image, 4:3 composition.
+4. A character creating a small sticker-shaped image directly inside a glowing chat bubble without ever leaving the conversation window, flat vector illustration style, soft rounded shapes, minimal color palette, no text or logos in the image, 4:3 composition.
+5. A character looking pleasantly surprised mid-conversation, having accidentally tapped into a chat that was already active and waiting, flat vector illustration style, soft rounded shapes, minimal color palette, no text or logos in the image, 4:3 composition.

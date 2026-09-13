@@ -1,6 +1,4 @@
-# Runway — 텍스트로 영화 한 장면을 만들어내는 신인 감독
-
-*시리즈: 전세계 AI 특장점 열전 | 16/20 | 오늘의 주인공: Runway · 2026년 하반기 기준*
+# 16. Runway — 텍스트로 영화 한 장면을 만들어내는 신인 감독
 
 ---
 
@@ -25,10 +23,6 @@ Runway는 텍스트나 이미지 한 장으로 짧은 영상을 만들어내는 
 촬영 전 판단을 얼마나 앞당겨주는지로 채점하면 ⭐️⭐️⭐️⭐ (4.0/5) — 영상 프로토타이핑 속도 최강, 완성도 높은 장편 제작은 아직 미완성 단계.
 
 ---
-
-*다음 편 예고: [AI 인물열전 #17] Adobe Firefly — "포토샵에 스며든" 정직한 디자인 도우미 편.*
-
----
 ![대표 이미지](images/16_Runway/16_Runway_1_thumbnail.png)
 
 본문에 그림이 들어가면 좋을 자리는 아래와 같다. 실제 이미지는 아직 넣지 않았다.
@@ -40,3 +34,11 @@ Runway는 텍스트나 이미지 한 장으로 짧은 영상을 만들어내는 
 〔이미지 자리 — 본문에서 3번째 특장점을 설명하는 대목〕
 
 〔이미지 자리 — 총평 문단 바로 위〕
+
+## 이미지 생성 프롬프트
+
+1. A character holding up a simple sketch that transforms into a short glowing film clip projected in front of them, no camera or crew anywhere in sight, flat vector illustration style, soft rounded shapes, minimal color palette, no text or logos in the image, 16:9 composition.
+2. A character drawing a quick sketch on paper that lifts off the page and becomes a short glowing moving film strip, flat vector illustration style, soft rounded shapes, minimal color palette, no text or logos in the image, 4:3 composition.
+3. A character erasing a distracting object from a busy scene with a single wipe of the hand, the background smoothing out cleanly behind it, flat vector illustration style, soft rounded shapes, minimal color palette, no text or logos in the image, 4:3 composition.
+4. A character arranging several small storyboard panels on a wall, stepping back to check the sequence before any camera is set up, flat vector illustration style, soft rounded shapes, minimal color palette, no text or logos in the image, 4:3 composition.
+5. A character standing at a crossroads holding a short glowing preview clip in one hand, confidently choosing a path instead of hesitating, flat vector illustration style, soft rounded shapes, minimal color palette, no text or logos in the image, 4:3 composition.

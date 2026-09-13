@@ -1,6 +1,4 @@
-# Character.AI — 각자 취향대로 만드는 나만의 캐릭터 친구
-
-*시리즈: 전세계 AI 특장점 열전 | 13/20 | 오늘의 주인공: Character.AI · 2026년 하반기 기준*
+# 13. Character.AI — 각자 취향대로 만드는 나만의 캐릭터 친구
 
 ---
 
@@ -23,10 +21,6 @@
 몰입해서 노는 재미 하나로 채점하면 ⭐️⭐️⭐️½ (3.8/5) — 몰입형 창작·롤플레이 경험 독보적, 실무 활용도는 낮음.
 
 ---
-
-*다음 편 예고: [AI 인물열전 #14] Suno — "가사만 던지면 노래를 완성해주는" 작곡가 편.*
-
----
 ![대표 이미지](images/13_CharacterAI/13_CharacterAI_1_thumbnail.png)
 
 본문에 그림이 들어가면 좋을 자리는 아래와 같다. 실제 이미지는 아직 넣지 않았다.
@@ -38,3 +32,11 @@
 〔이미지 자리 — 본문에서 3번째 특장점을 설명하는 대목〕
 
 〔이미지 자리 — 총평 문단 바로 위〕
+
+## 이미지 생성 프롬프트
+
+1. A playful character sitting cross-legged surrounded by several distinct fantastical persona characters they have created, warm glowing screen light on their face, flat vector illustration style, soft rounded shapes, minimal color palette, no text or logos in the image, 16:9 composition.
+2. A character sketching a new persona on a glowing screen, choosing traits from a floating palette of expression and costume icons, flat vector illustration style, soft rounded shapes, minimal color palette, no text or logos in the image, 4:3 composition.
+3. A shelf of many different handmade character figures being passed between several small figures in a shared room, flat vector illustration style, soft rounded shapes, minimal color palette, no text or logos in the image, 4:3 composition.
+4. Two characters deep in animated conversation, their speech bubbles chaining into a long winding path across the scene, flat vector illustration style, soft rounded shapes, minimal color palette, no text or logos in the image, 4:3 composition.
+5. A character sitting alone with a glowing phone screen in a dark room, a clock on the wall showing very late night, a cozy blanket wrapped around them, flat vector illustration style, soft rounded shapes, minimal color palette, no text or logos in the image, 4:3 composition.

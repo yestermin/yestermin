@@ -1,6 +1,4 @@
-# Cursor — IDE를 통째로 삼켜버린 코딩 에이전트
-
-*시리즈: 전세계 AI 특장점 열전 | 12/20 | 오늘의 주인공: Cursor · 2026년 하반기 기준*
+# 12. Cursor — IDE를 통째로 삼켜버린 코딩 에이전트
 
 ---
 
@@ -29,10 +27,6 @@ UX도 개발자가 실제로 일하는 순서를 따라간다. diff 보기, 단�
 자동완성을 넘어 실제로 코드를 대신 짜주는 힘 하나로 매기면 ⭐️⭐️⭐️⭐️⭐️ (4.5/5) — 실질적인 코드 작업 수행력 최상위권, 에디터 자체를 바꿔야 하는 진입장벽 존재.
 
 ---
-
-*다음 편 예고: [AI 인물열전 #13] Character.AI — "각자 취향대로 만드는 나만의 캐릭터" 편.*
-
----
 ![대표 이미지](images/12_Cursor/12_Cursor_1_thumbnail.png)
 
 본문에 그림이 들어가면 좋을 자리는 아래와 같다. 실제 이미지는 아직 넣지 않았다.
@@ -44,3 +38,11 @@ UX도 개발자가 실제로 일하는 순서를 따라간다. diff 보기, 단�
 〔이미지 자리 — 본문에서 3번째 특장점을 설명하는 대목〕
 
 〔이미지 자리 — 총평 문단 바로 위〕
+
+## 이미지 생성 프롬프트
+
+1. A determined character sitting at a fresh new editor screen, many connected file icons glowing around them like a web, confident posture, flat vector illustration style, soft rounded shapes, minimal color palette, no text or logos in the image, 16:9 composition.
+2. A character hesitating in a doorway, glancing back at an old familiar desk before stepping forward into a new bright workspace, flat vector illustration style, soft rounded shapes, minimal color palette, no text or logos in the image, 4:3 composition.
+3. A character simultaneously editing several open file windows at once, glowing threads visibly connecting matching changes across all of them, flat vector illustration style, soft rounded shapes, minimal color palette, no text or logos in the image, 4:3 composition.
+4. A character standing above a large glowing map of interconnected file icons, tracing a single path through all of them at once, flat vector illustration style, soft rounded shapes, minimal color palette, no text or logos in the image, 4:3 composition.
+5. A character reviewing a side-by-side before-and-after comparison on a screen, calmly checking a small approval checkbox, flat vector illustration style, soft rounded shapes, minimal color palette, no text or logos in the image, 4:3 composition.

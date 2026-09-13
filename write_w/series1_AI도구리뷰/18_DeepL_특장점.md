@@ -1,6 +1,4 @@
-# DeepL — 뉘앙스까지 살려내는 프로 통역사
-
-*시리즈: 전세계 AI 특장점 열전 | 18/20 | 오늘의 주인공: DeepL · 2026년 하반기 기준*
+# 18. DeepL — 뉘앙스까지 살려내는 프로 통역사
 
 ---
 
@@ -23,10 +21,6 @@ DeepL Write로 같은 문장을 격식체와 친근체 사이에서 굴려볼 �
 번역이라는 한 가지 일 하나만 놓고 매기면 ⭐️⭐️⭐️⭐⭐ (4.4/5) — 번역 품질 최상위권, 멀티태스킹보다 전문성에 올인.
 
 ---
-
-*다음 편 예고: [AI 인물열전 #19] Meta AI — "인스타·왓츠앱에 이미 들어와 있는" 옆집 AI 편.*
-
----
 ![대표 이미지](images/18_DeepL/18_DeepL_1_thumbnail.png)
 
 본문에 그림이 들어가면 좋을 자리는 아래와 같다. 실제 이미지는 아직 넣지 않았다.
@@ -38,3 +32,11 @@ DeepL Write로 같은 문장을 격식체와 친근체 사이에서 굴려볼 �
 〔이미지 자리 — 본문에서 3번째 특장점을 설명하는 대목〕
 
 〔이미지 자리 — 총평 문단 바로 위〕
+
+## 이미지 생성 프롬프트
+
+1. A focused character standing between two speech bubbles written in different scripts, smoothly reshaping one into a natural, fluent version of the other, flat vector illustration style, soft rounded shapes, minimal color palette, no text or logos in the image, 16:9 composition.
+2. A character reshaping a stiff, blocky sentence shape into a smooth, naturally flowing ribbon of text, flat vector illustration style, soft rounded shapes, minimal color palette, no text or logos in the image, 4:3 composition.
+3. A character sliding a formatted document through a glowing translating gate, the exact same layout and boxes emerging untouched on the other side, flat vector illustration style, soft rounded shapes, minimal color palette, no text or logos in the image, 4:3 composition.
+4. A character adjusting a dial between a formal stiff-collared figure and a relaxed casual figure, both saying the same thing in different tones, flat vector illustration style, soft rounded shapes, minimal color palette, no text or logos in the image, 4:3 composition.
+5. A modest, focused character calmly stamping a contract document with quiet confidence, no distractions anywhere around them, flat vector illustration style, soft rounded shapes, minimal color palette, no text or logos in the image, 4:3 composition.

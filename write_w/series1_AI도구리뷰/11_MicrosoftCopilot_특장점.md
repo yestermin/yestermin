@@ -1,6 +1,4 @@
-# Microsoft Copilot (365) — 엑셀·워드·아웃룩에 이미 눌러앉은 사내 비서
-
-*시리즈: 전세계 AI 특장점 열전 | 11/20 | 오늘의 주인공: Microsoft Copilot · 2026년 하반기 기준*
+# 11. Microsoft Copilot (365) — 엑셀·워드·아웃룩에 이미 눌러앉은 사내 비서
 
 ---
 
@@ -27,10 +25,6 @@ IT 담당자 입장에서 보는 그림도 다르다. 대기업들이 수십 년
 회사 문서 업무를 얼마나 덜어주는지로 채점하면 ⭐️⭐️⭐️⭐ (4.0/5) — 기업 업무 자동화 최강자, 개인 창작용으로는 심심할 수 있음.
 
 ---
-
-*다음 편 예고: [AI 인물열전 #12] Cursor — "IDE를 통째로 삼켜버린" 코딩 에이전트 편.*
-
----
 ![대표 이미지](images/11_MicrosoftCopilot/11_MicrosoftCopilot_1_thumbnail.png)
 
 본문에 그림이 들어가면 좋을 자리는 아래와 같다. 실제 이미지는 아직 넣지 않았다.
@@ -42,3 +36,11 @@ IT 담당자 입장에서 보는 그림도 다르다. 대기업들이 수십 년
 〔이미지 자리 — 본문에서 3번째 특장점을 설명하는 대목〕
 
 〔이미지 자리 — 총평 문단 바로 위〕
+
+## 이미지 생성 프롬프트
+
+1. A professional assistant character standing at a desk with document, spreadsheet, and inbox icons neatly arranged around them, calm and competent posture, flat vector illustration style, soft rounded shapes, minimal color palette, no text or logos in the image, 16:9 composition.
+2. A character pressing one single glowing button that simultaneously updates a document, a spreadsheet, and an inbox all at once around them, flat vector illustration style, soft rounded shapes, minimal color palette, no text or logos in the image, 4:3 composition.
+3. A character calmly rewriting a sharp red speech bubble into a smooth, polite blue speech bubble with a small gentle smile, flat vector illustration style, soft rounded shapes, minimal color palette, no text or logos in the image, 4:3 composition.
+4. A character pulling three glowing threads together — one from a calendar, one from an inbox, one from a folder — into a single neat bundle, flat vector illustration style, soft rounded shapes, minimal color palette, no text or logos in the image, 4:3 composition.
+5. A character quietly placing a small reminder note on a colleague's desk without saying a word, the colleague looking relieved moments later, flat vector illustration style, soft rounded shapes, minimal color palette, no text or logos in the image, 4:3 composition.

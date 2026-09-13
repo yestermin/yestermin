@@ -1,6 +1,4 @@
-# Notion AI — 이미 내 업무 문서 다 보고 있는 조용한 총무
-
-*시리즈: 전세계 AI 특장점 열전 | 10/20 | 오늘의 주인공: Notion AI · 2026년 하반기 기준*
+# 10. Notion AI — 이미 내 업무 문서 다 보고 있는 조용한 총무
 
 ---
 
@@ -31,13 +29,6 @@ Notion을 이미 쓰는 팀이라는 전제로 매기면 ⭐️⭐️⭐️⭐ (
 제일 좋은 AI를 묻는 질문에는 답이 잘 안 나온다. 지금 내 책상 위에 놓인 일에 누가 맞는지를 물으면 답이 금방 나온다. 승부는 거기서 갈린다.
 
 ---
-
-*시리즈 전체 목록: 01 ChatGPT · 02 Claude · 03 Gemini · 04 Grok · 05 DeepSeek · 06 Canva · 07 Midjourney · 08 GitHub Copilot · 09 Perplexity · 10 Notion AI*
-
-
-*다음 편 예고: Microsoft Copilot — 입사 첫날 사내 시스템을 다 꿰찬 신입 비서 편.*
-
----
 ![대표 이미지](images/10_NotionAI/10_NotionAI_1_thumbnail.png)
 
 본문에 그림이 들어가면 좋을 자리는 아래와 같다. 실제 이미지는 아직 넣지 않았다.
@@ -49,3 +40,11 @@ Notion을 이미 쓰는 팀이라는 전제로 매기면 ⭐️⭐️⭐️⭐ (
 〔이미지 자리 — 본문에서 3번째 특장점을 설명하는 대목〕
 
 〔이미지 자리 — 총평 문단 바로 위〕
+
+## 이미지 생성 프롬프트
+
+1. A quiet character standing calmly in front of tall shelves of labeled binders and documents, instantly pulling out exactly the right folder without searching, flat vector illustration style, soft rounded shapes, minimal color palette, no text or logos in the image, 16:9 composition.
+2. A character reaching into a dusty, forgotten folder on a high shelf and pulling out exactly the needed page with a small confident nod, flat vector illustration style, soft rounded shapes, minimal color palette, no text or logos in the image, 4:3 composition.
+3. A character calmly answering a question, surrounded by floating familiar document and folder icons instead of a blank confused thought bubble, flat vector illustration style, soft rounded shapes, minimal color palette, no text or logos in the image, 4:3 composition.
+4. A character checking off small action-item tags directly on one glowing screen without switching to any other window, flat vector illustration style, soft rounded shapes, minimal color palette, no text or logos in the image, 4:3 composition.
+5. An empty break-room refrigerator with a small group of characters standing around it looking surprised and lost, a quiet character calmly restocking it unnoticed in the background, flat vector illustration style, soft rounded shapes, minimal color palette, no text or logos in the image, 4:3 composition.
